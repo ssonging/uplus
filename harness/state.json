@@ -2,7 +2,7 @@
   "current": "list",
   "tokens": { "generated": true },
   "screens": {
-    "list": { "stage": "spec", "attempts": 0 },
+    "list": { "stage": "build", "attempts": 1 },
     "detail": { "stage": "todo", "attempts": 0 },
     "apply": { "stage": "todo", "attempts": 0 },
     "complete": { "stage": "todo", "attempts": 0 }

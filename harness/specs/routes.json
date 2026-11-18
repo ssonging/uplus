@@ -1,0 +1,9 @@
+{
+  "figmaFile": "OHWp8k8rDctlZgjvVcink2",
+  "screens": [
+    { "name": "list", "title": "요금제 목록", "route": "/plans", "figmaNode": "10027:596" },
+    { "name": "detail", "title": "요금제 상세", "route": "/plans/[id]", "figmaNode": "10027:636" },
+    { "name": "apply", "title": "구독 신청", "route": "/plans/[id]/apply", "figmaNode": "10027:665" },
+    { "name": "complete", "title": "신청 완료", "route": "/plans/[id]/complete", "figmaNode": "10027:701" }
+  ]
+}
