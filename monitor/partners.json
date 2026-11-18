@@ -1,0 +1,16 @@
+{
+  "_note": "가정: 초기 별칭 목록. 실제 사이트 표기를 확인하며 고친다.",
+  "partners": {
+    "티빙": ["TVING", "tving"],
+    "넷플릭스": ["Netflix", "NETFLIX"],
+    "유튜브 프리미엄": ["YouTube Premium", "유튜브", "YouTube"],
+    "디즈니플러스": ["디즈니+", "Disney+", "Disney Plus"],
+    "웨이브": ["wavve", "Wavve"],
+    "쿠팡플레이": ["Coupang Play"],
+    "왓챠": ["WATCHA", "Watcha"],
+    "밀리의 서재": ["밀리의서재"],
+    "배달의민족": ["배민", "배민클럽"],
+    "네이버플러스 멤버십": ["네이버플러스", "Naver Plus"],
+    "ChatGPT": ["챗GPT", "챗지피티", "OpenAI"]
+  }
+}

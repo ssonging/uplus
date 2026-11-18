@@ -1,0 +1,52 @@
+[
+ {
+  "url": "https://rdi.kt.com/kt/banners/v1.0/gnbbanner?_=1794968597122",
+  "status": 200,
+  "body": "{\"apiMaskIpInfo\":\"#31\",\"returnCode\":\"ok\",\"serverTime\":\"2026.11.18 11:23:18.655\",\"data\":[{\"areaId\":\"A000000762\",\"areaNm\":\"혜택\",\"statInfo\":\"^KT-개인_공통^GNB^마케팅배너^혜택^\",\"sysDivType\":\"01\",\"chDivType\":\"01\",\"showYn\":\"Y\",\"menuCode\":\"C00000\",\"areaContsList\":[{\"areaContsId\":\"C000013197\",\"areaContsVer\":0,\"areaId\":\"A000000762\",\"areaSetId\":\"areaSlfSet\",\"title\":\"가전구독 특급 혜택\",\"areaContsType\":\"02\",\"saveImgNm\":\"C000013197v11.png\",\"saveImgPath\":\"/images/area/A000000762/\",\"altText\":\"가전구독 특급 혜택! 에어컨 얼리버드 상품권 이벤트\",\"htmlInfo\":null,\"statInfo\":\"가전구독 특급 혜택_250429\",\"showPerdType\":\"01\",\"showSdate\":\"2025.04.29 17:58:58:000\",\"showEdate\":\"9999.12.31 23:59:59:000\",\"showYn\":\"Y\",\"urlInfo\":\"https://shop.kt.com/display/olhsPlan.do?plnDispNo=2527\",\"trgtType\":null,\"mblTrgtType\":null,\"sortOrdg\":2,\"fixBanrYn\":null,\"saveFileNm\":null,\"saveFilePath\":null,\"popupTrgtType\":null,\"evtCloDate\":null,\"floatTrgtType\":\"01\",\"floatPopupWdth\":0,\"floatPopupVrtc\":0,\"titleType\":\"01\",\"popupXcrd\":null,\"popupYcrd\":null,\"contsDivType\":\"04\",\"popupWdth\":null,\"popupVrtc\":null}]},{\"areaId\":\"A000000765\",\"areaNm\":\"고객지원\",\"statInfo\":\"^KT-개인_공통^GNB^마케팅배너^고객지원^\",\"sysDivType\":\"01\",\"chDivType\":\"01\",\"showYn\":\"Y\",\"menuCode\":\"E00000\",\"areaContsList\":[{\"areaContsId\":\"C000013809\",\"areaContsVer\":0,\"areaId\":\"A000000765\",\"areaSetId\":\"areaSlfSet\",\"title\":\"안심 QR\",\"areaContsType\":\"02\",\"saveImgNm\":\"C000013809v14.png\",\"saveImgPath\":\"/images/area/A000000765/\",\"altText\":\"안심 QR, 소중한 내 정보, 안심 QR로 예방하세요!\",\"htmlInfo\":null,\"statInfo\":\"안심 QR 서비스_250429\",\"showPerdType\":\"01\",\"showSdate\":\"2025.08.07 16:11:32:000\",\"showEdate\":\"9999.12.31 23:59:59:000\",\"showYn\":\"Y\",\"urlInfo\":\"https://inside.kt.com/html/safety/secure_QR.html\",\"trgtType\":null,\"mblTrgtType\":null,\"sortOrdg\":5,\"fixBanrYn\":null,\"saveFileNm\":null,\"saveFilePath\":null,\"popupTrgtType\":null,\"evtCloDate\":null,\"floatTrgtType\":\"01\",\"floatPopupWdth\":0,\"floatPopupVrtc\":0,\"titleType\":\"01\",\"popupXcrd\":null,\"popupYcrd\":null,\"contsDivType\":\"04\",\"popupWdth\":null,\"popupVrtc\":null}]}],\"apiResCode\":\"\",\"apiTransactionId\":\"f046211b-a834-4169-a01b-eccb441676cf\"}"
+ },
+ {
+  "url": "https://rdi.kt.com/kt/menuinfo/v1.0/channels/01/menus/BBM000/stats/screen?_=1794968597123",
+  "status": 200,
+  "body": "{\"apiMaskIpInfo\":\"#244\",\"returnCode\":\"ok\",\"serverTime\":\"2026.11.18 11:23:18.829\",\"data\":{\"menuCd\":\"BBM000\",\"scrnStatInfo\":\"^www^KT-개인^상품서비스^모바일^KT구독\",\"recMenuYn\":\"Y\",\"storeFindYn\":\"N\",\"tabBarYn\":\"Y\",\"stsfcSurveyYn\":\"N\",\"ktalkYn\":\"Y\"},\"apiResCode\":\"\",\"apiTransactionId\":\"d6f355a5-9d68-4e3a-8ca7-debe46afb27a\"}"
+ },
+ {
+  "url": "https://log.onmas.kt.com/log/v1.0/kt/scollect",
+  "status": 200,
+  "body": "{\"returnCode\":\"OK\"}"
+ },
+ {
+  "url": "https://www.kt.com/js/json/popup_ALL.json?version=2026111811&_=1794968597124",
+  "status": 200,
+  "body": "{\"returnCode\":\"OK\",\"serverTime\":\"2026.10.26 19:23:33.333\",\"data\":{\"mode\":\"CM_DEPLOY\",\"deployChannel\":\"portal\",\"sysDivType\":\"01\",\"popupList\":[\"BBM000\",\"EBA000\",\"ACC000\",\"AA0000\",\"BIA000\",\"BA0000\",\"BGB000\",\"BFCC00\",\"BBAH00\"],\"chDivType\":\"01\"}}"
+ },
+ {
+  "url": "https://logapi.kt.com/v1.0/log/trace",
+  "status": 200,
+  "body": "{\"returnCode\":\"OK\"}"
+ },
+ {
+  "url": "https://www.kt.com/js/json/popup_BBM000.json?version=2026111811&_=1794968597125",
+  "status": 200,
+  "body": "{\"returnCode\":\"OK\",\"serverTime\":\"2026.09.21 15:39:14.947\",\"data\":{\"gnbPopupId\":\"G000000053\",\"menuCd\":\"BBM000\",\"sysDivType\":\"01\",\"chDivType\":\"01\",\"gnbMenuId\":\"G000006446\",\"menuPath\":\"상품 > 모바일 > OTT 구독\",\"dpStatus\":\"03\",\"showYn\":\"Y\",\"tbDpYn\":\"Y\",\"cmDpYn\":\"Y\",\"tbDpDate\":\"2026.09.21 15:39:12:000\",\"cmDpDate\":\"2026.09.21 15:39:15:000\",\"regDate\":\"2025.07.01 16:59:04:905\",\"chgDate\":\"2026.09.21 15:39:15:000\",\"popupOperate\":\"001\",\"detailList\":[{\"gnbContsId\":\"C000000215\",\"gnbContsVer\":31,\"gnbPopupId\":\"G000000053\",\"gnbContsType\":\"01\",\"dimYn\":\"Y\",\"htmlInfo\":\"<a href=\\\"https://event.kt.com/html/event/ongoing_event_view.html?pcEvtNo=13983\\\" onclick=\\\"KT_GAtrackClicks({EVENT_PAGE:'KT닷컴_PC_공통', EVENT_AREA:'입점팝업|상품|모바일|KT구독', EVENT_LABEL:'티빙KT구독네이버포인트지급_260921'});\\\" target=\\\"_self\\\"><img alt=\\\"KT 티빙 신규 구독 이벤트 지금 KT 티빙 구독하면 네이버페잊 포인트 2만원! 지금 바로 럭키드로우 참여하세요! TVING 로또1등도 출근합니다 네이버페이 2만원권 자세히보기\\\" src=\\\"https://www.kt.com/images/area/A000000854/C000015320v69.png\\\" /></a>\\r\\n<style type=\\\"text/css\\\">.cfm-layers.layer-notice .layer-contents {padding-bottom:0;}\\r\\n.layer-notice .layer-footer button:last-child {width:229px}\\r\\n</style>\\r\\n\",\"sortOrdg\":9,\"subTitle\":\"하루 동안 보지 않기\",\"dpStatus\":\"03\",\"popupWdth\":\"460\",\"popupVrtc\":\"554\",\"popupStopType\":\"1\",\"popupType\":\"01\",\"showPerdType\":\"02\",\"showSdate\":\"2026.09.21 15:20:00:000\",\"showEdate\":\"2026.10.31 23:59:00:000\",\"showYn\":\"Y\",\"regDate\":\"2026.09.21 15:39:10:553\",\"chgDate\":\"2026.09.21 15:39:15:000\",\"title\":\"티빙 KT구독 네이버포인트 지급\",\"popupOperate\":\"001\",\"imgList\":[]}]}}"
+ },
+ {
+  "url": "https://offer.onmas.kt.com/offer/v1.0/kt/popup",
+  "status": 200,
+  "body": "{\"returnCode\":\"NG\",\"error\":{\"code\":\"1100\",\"message\":\"해당하는 캠페인이 없습니다.\",\"moreInfo\":\"\"}}"
+ },
+ {
+  "url": "https://cdn.onetag.co.kr/tcs/cf/p/qecoi75luoh0qecoi75luo.json?v=11181123",
+  "status": 200,
+  "body": "{\"appKey\":\"qecoi75luoh0qecoi75luo\",\"adverId\":\"madcorp1\",\"event\":[],\"script\":[],\"debugScript\":[{\"scriptId\":\"11f14e836d134e43f274b770\",\"scriptName\":\"데이터 매니저\",\"platformType\":\"all\",\"scriptContent\":\"<script async src=\\\"https://cdn.datamanager.co.kr/0/tcsdm.js?eid=qecoi75luoh0qecoi75luo\\\"></script>\",\"scriptHead\":\"\",\"scriptVersion\":1,\"publishVersion\":0,\"path\":[\"*\"],\"excludePath\":[],\"headKeyword\":[\"\"],\"contentKeyword\":[\"tcsdm.js\"]}],\"hostingCode\":\"99999\",\"sessionMin\":\"30\",\"sleepMin\":\"5\"}"
+ },
+ {
+  "url": "https://asia.creativecdn.com/tags/v2?type=json&tc=1",
+  "status": 200,
+  "body": "[{\"url\":\"https://ib.adnxs.com/setuid?entity=315&code=6CSdJ-Gw8st7uRU3ugybcGDSlSXf44dPajz7jtMf_rY&consent=1\",\"type\":\"IMG\"},{\"url\":\"https://sin46.creativecdn.com/info?tk=HlXn7b-XXzrnYbuWNp4L4q89lUInRbXRw1pYRTEnDtZ3UIzfCqUIY4tK1wBfK7kKBuLQT09lzj3cMgG0UOPTfwA\",\"type\":\"IMG\"}]"
+ },
+ {
+  "url": "https://nam.veta.naver.com/nac/2",
+  "status": 200,
+  "body": "{\"nac\":\"sVfbDoCVKRSmA\"}\n"
+ }
+]

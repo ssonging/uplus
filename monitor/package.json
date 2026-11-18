@@ -1,0 +1,12 @@
+{
+  "name": "subs-watch-monitor",
+  "private": true,
+  "type": "module",
+  "description": "subs-watch 에이전트용 헤드리스 브라우저 수집 스크립트",
+  "scripts": {
+    "fetch": "node scripts/fetch.mjs udok tuniverse ktsub"
+  },
+  "dependencies": {
+    "playwright": "1.48.2"
+  }
+}

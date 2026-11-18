@@ -1,0 +1,10 @@
+{
+  "sites": [
+    { "id": "udok", "name": "유독 (LG U+)", "url": "https://www.lguplus.com/pogg/main", "mobile": false, "role": "main" },
+    { "id": "udok-all", "site": "udok", "name": "유독 전체상품", "url": "https://www.lguplus.com/pogg/category/%EC%A0%84%EC%B2%B4", "mobile": false, "role": "list" },
+    { "id": "tuniverse", "name": "T우주 (SKT)", "url": "https://m.sktuniverse.co.kr/", "mobile": true, "role": "main" },
+    { "id": "tuniverse-all", "site": "tuniverse", "name": "T우주 카테고리 전체", "url": "https://m.sktuniverse.co.kr/category/sub/tab/detail?ctanId=CC00000012&ctgId=CA00000001", "mobile": true, "role": "list" },
+    { "id": "tuniverse-event", "site": "tuniverse", "name": "T우주 이벤트", "url": "https://m.sktuniverse.co.kr/etc/event", "mobile": true, "role": "event" },
+    { "id": "ktsub", "name": "KT구독", "url": "https://my.kt.com/product/OttSubscribeView.do", "mobile": false, "role": "main+list", "note": "상품 49개 카드가 HTML에 모두 있고 '더보기'로 화면에만 순차 노출됨 (2026-11-18 확인). 전체 목록은 ktsub.html에서 읽는다." }
+  ]
+}

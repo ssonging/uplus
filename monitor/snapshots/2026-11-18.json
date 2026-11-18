@@ -1,0 +1,5113 @@
+{
+ "date": "2026-11-18",
+ "createdAt": "2026-11-18T02:32:29.765Z",
+ "rawDir": "raw/2026-11-18",
+ "sites": {
+  "udok": {
+   "status": "ok",
+   "url": "https://www.lguplus.com/pogg/category/전체",
+   "fetchedAt": "2026-11-18T02:18:38.025Z",
+   "products": [
+    {
+     "key": "udok:2194",
+     "id": "2194",
+     "partner": "(주)엘지유플러스",
+     "name": "유튜브 프리미엄 + 구글 AI Pro",
+     "desc": "광고없는 유튜브 · 제미나이 AI · 대용량 클라우드",
+     "category": "OTT/뮤직",
+     "tags": [
+      "국내최저가"
+     ],
+     "price": {
+      "regular": 43900,
+      "sale": 29000,
+      "unit": "월",
+      "discountRate": 34
+     },
+     "promotions": [
+      {
+       "title": "24개월 할인 프로모션",
+       "period": "2026-08-07~상시",
+       "text": "프로모션가 월 29000원 (프로모션 전 할인가 월 36900원)"
+      }
+     ],
+     "url": "https://www.lguplus.com/pogg/product/youtube-google-ai-pro-26y-pack"
+    },
+    {
+     "key": "udok:2121",
+     "id": "2121",
+     "partner": "(주)엘지유플러스",
+     "name": "유튜브 프리미엄 + 추가쿠폰",
+     "desc": "메가커피 · 다이소 등 인기쿠폰 13종 중 택1",
+     "category": "OTT/뮤직",
+     "tags": [],
+     "price": {
+      "regular": 18300,
+      "sale": 13900,
+      "unit": "월",
+      "discountRate": 24
+     },
+     "promotions": [
+      {
+       "title": "24개월 할인 프로모션",
+       "period": "2026-08-07~상시",
+       "text": "프로모션가 월 13900원 (프로모션 전 할인가 월 16900원)"
+      }
+     ],
+     "url": "https://www.lguplus.com/pogg/product/ytp-26-pick-life"
+    },
+    {
+     "key": "udok:2120",
+     "id": "2120",
+     "partner": "(주)엘지유플러스",
+     "name": "유튜브 프리미엄 + 추가AI",
+     "desc": "키네마스터·플랭 등 매월 1개 선택",
+     "category": "OTT/뮤직",
+     "tags": [],
+     "price": {
+      "regular": 24800,
+      "sale": 16900,
+      "unit": "월",
+      "discountRate": 32
+     },
+     "promotions": [
+      {
+       "title": "24개월 할인 프로모션",
+       "period": "2026-08-07~상시",
+       "text": "프로모션가 월 16900원 (프로모션 전 할인가 월 19900원)"
+      }
+     ],
+     "url": "https://www.lguplus.com/pogg/product/ytp-26-pick-ai"
+    },
+    {
+     "key": "udok:2132",
+     "id": "2132",
+     "partner": "(주)엘지유플러스",
+     "name": "유튜브 프리미엄 + 라이너",
+     "desc": "광고없는 유튜브 · 검색·요약 전문 AI 이용권",
+     "category": "OTT/뮤직",
+     "tags": [],
+     "price": {
+      "regular": 38800,
+      "sale": 23900,
+      "unit": "월",
+      "discountRate": 38
+     },
+     "promotions": [
+      {
+       "title": "24개월 할인 프로모션",
+       "period": "2026-08-07~상시",
+       "text": "프로모션가 월 23900원 (프로모션 전 할인가 월 26900원)"
+      }
+     ],
+     "url": "https://www.lguplus.com/pogg/product/youtube-liner-26y-pack"
+    },
+    {
+     "key": "udok:2119",
+     "id": "2119",
+     "partner": "(주)엘지유플러스",
+     "name": "유튜브 라이트 + 메가커피",
+     "desc": "광고부담 덜한 실속형 유튜브 · 메가커피 1잔",
+     "category": "OTT/뮤직",
+     "tags": [],
+     "price": {
+      "regular": 10200,
+      "sale": 8500,
+      "unit": "월",
+      "discountRate": 17
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/youtube-lite-mega-26y"
+    },
+    {
+     "key": "udok:2123",
+     "id": "2123",
+     "partner": "(주)엘지유플러스",
+     "name": "유튜브 프리미엄 라이트 + 추가쿠폰",
+     "desc": "메가커피·다이소 등 매월 1개 선택",
+     "category": "OTT/뮤직",
+     "tags": [],
+     "price": {
+      "regular": 11900,
+      "sale": 9900,
+      "unit": "월",
+      "discountRate": 17
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/ytpl-26-pick-life"
+    },
+    {
+     "key": "udok:2122",
+     "id": "2122",
+     "partner": "(주)엘지유플러스",
+     "name": "유튜브 프리미엄 라이트 + 추가AI",
+     "desc": "키네마스터·플랭 등 매월 1개 선택",
+     "category": "OTT/뮤직",
+     "tags": [],
+     "price": {
+      "regular": 18400,
+      "sale": 12900,
+      "unit": "월",
+      "discountRate": 30
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/ytpl-26-pick-ai"
+    },
+    {
+     "key": "udok:2192",
+     "id": "2192",
+     "partner": "(주)엘지유플러스",
+     "name": "유튜브 프리미엄 라이트 + 지니뮤직",
+     "desc": "대부분 광고없는 유튜브·지니뮤직",
+     "category": "OTT/뮤직",
+     "tags": [],
+     "price": {
+      "regular": 16400,
+      "sale": 13900,
+      "unit": "월",
+      "discountRate": 15
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/youtube-lite-genie-26y-pack"
+    },
+    {
+     "key": "udok:1627",
+     "id": "1627",
+     "partner": null,
+     "name": "넷플릭스",
+     "desc": "영화 · 시리즈 무제한",
+     "category": "OTT/뮤직",
+     "tags": [],
+     "price": {
+      "regular": 7000,
+      "sale": 6500,
+      "unit": "월",
+      "discountRate": 7
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4"
+    },
+    {
+     "key": "udok:1258",
+     "id": "1258",
+     "partner": null,
+     "name": "티빙",
+     "desc": "K컨텐츠의 중심",
+     "category": "OTT/뮤직",
+     "tags": [],
+     "price": {
+      "regular": 5500,
+      "sale": 4950,
+      "unit": "월",
+      "discountRate": 10
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/%EC%9C%A0%EB%8F%85-%ED%8B%B0%EB%B9%99-%EC%9B%94%EC%A0%95%EC%95%A1-%EC%9D%B4%EC%9A%A9%EA%B6%8C"
+    },
+    {
+     "key": "udok:2196",
+     "id": "2196",
+     "partner": "(주)엘지유플러스",
+     "name": "디즈니플러스 + 추가AI",
+     "desc": "키네마스터·플랭 등 매월 1개 선택",
+     "category": "OTT/뮤직",
+     "tags": [],
+     "price": {
+      "regular": 19800,
+      "sale": 12900,
+      "unit": "월",
+      "discountRate": 35
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/disneyplus-26y-pick-ai"
+    },
+    {
+     "key": "udok:2199",
+     "id": "2199",
+     "partner": "(주)엘지유플러스",
+     "name": "구글 AI Pro + 추가쿠폰",
+     "desc": "메가커피·다이소 등 매월 1개 선택",
+     "category": "AI",
+     "tags": [],
+     "price": {
+      "regular": 32400,
+      "sale": 21900,
+      "unit": "월",
+      "discountRate": 32
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/google-ai-pro-26y-pick-life"
+    },
+    {
+     "key": "udok:2198",
+     "id": "2198",
+     "partner": "(주)엘지유플러스",
+     "name": "구글AI Pro + 추가AI",
+     "desc": "키네마스터·플랭 등 매월 1개 선택",
+     "category": "AI",
+     "tags": [],
+     "price": {
+      "regular": 38900,
+      "sale": 32000,
+      "unit": "월",
+      "discountRate": 18
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/google-ai-pro-26y-pick-ai"
+    },
+    {
+     "key": "udok:2053",
+     "id": "2053",
+     "partner": "(주)엘지유플러스",
+     "name": "구글 AI Pro + 도미노피자",
+     "desc": "제미나이 AI · 도미노피자 25% 할인쿠폰",
+     "category": "AI",
+     "tags": [
+      "시즌한정"
+     ],
+     "price": {
+      "regular": 33375,
+      "sale": 19800,
+      "unit": "월",
+      "discountRate": 41
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/%EA%B5%AC%EA%B8%80-ai-%ED%94%84%EB%A1%9C-%EB%8F%84%EB%AF%B8%EB%85%B8%ED%94%BC%EC%9E%90"
+    },
+    {
+     "key": "udok:2085",
+     "id": "2085",
+     "partner": "스노우",
+     "name": "스노우 VIP 이용권",
+     "desc": "사진보정 · 뷰티편집 이용권",
+     "category": "AI",
+     "tags": [],
+     "price": {
+      "regular": 11900,
+      "sale": 5900,
+      "unit": "월",
+      "discountRate": 50
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/%EC%8A%A4%EB%85%B8%EC%9A%B0-vip-%EC%9B%94-%EA%B5%AC%EB%8F%85%EA%B6%8C"
+    },
+    {
+     "key": "udok:2203",
+     "id": "2203",
+     "partner": "(주)엘지유플러스",
+     "name": "키네마스터 + 추가쿠폰",
+     "desc": "메가커피·다이소 등 매월 1개 선택",
+     "category": "AI",
+     "tags": [],
+     "price": {
+      "regular": 12300,
+      "sale": 10900,
+      "unit": "월",
+      "discountRate": 11
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/kinemaster-26-pick-life"
+    },
+    {
+     "key": "udok:2200",
+     "id": "2200",
+     "partner": "(주)엘지유플러스",
+     "name": "라이너 + 추가쿠폰",
+     "desc": "검색·요약 전문 AI 이용권 · 인기쿠폰 13종 중 택1",
+     "category": "AI",
+     "tags": [],
+     "price": {
+      "regular": 27300,
+      "sale": 17900,
+      "unit": "월",
+      "discountRate": 34
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/liner-26y-pick-life"
+    },
+    {
+     "key": "udok:2202",
+     "id": "2202",
+     "partner": "(주)엘지유플러스",
+     "name": "우수AI + 추가쿠폰",
+     "desc": "메가커피·다이소 등 매월 1개 선택",
+     "category": "AI",
+     "tags": [],
+     "price": {
+      "regular": 22400,
+      "sale": 20300,
+      "unit": "월",
+      "discountRate": 9
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/oosoo-26-pick-life"
+    },
+    {
+     "key": "udok:2201",
+     "id": "2201",
+     "partner": "(주)엘지유플러스",
+     "name": "펠로 + 추가쿠폰",
+     "desc": "검색·리서치 전문 AI 이용권 · 인기쿠폰 13종 중 택1",
+     "category": "AI",
+     "tags": [],
+     "price": {
+      "regular": 25400,
+      "sale": 22000,
+      "unit": "월",
+      "discountRate": 13
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/felo-26-pick-life"
+    },
+    {
+     "key": "udok:2204",
+     "id": "2204",
+     "partner": "(주)엘지유플러스",
+     "name": "과학동아 + 추가쿠폰",
+     "desc": "과학 학습 전문 AI 이용권 · 인기쿠폰 13종 중 택1",
+     "category": "AI",
+     "tags": [],
+     "price": {
+      "regular": 21300,
+      "sale": 15500,
+      "unit": "월",
+      "discountRate": 27
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/science-air-26y-pick-life"
+    },
+    {
+     "key": "udok:2205",
+     "id": "2205",
+     "partner": "(주)엘지유플러스",
+     "name": "수학대왕 + 추가쿠폰",
+     "desc": "수학 학습 전문 AI 이용권 · 인기쿠폰 13종 중 택1",
+     "category": "AI",
+     "tags": [],
+     "price": {
+      "regular": 23100,
+      "sale": 17600,
+      "unit": "월",
+      "discountRate": 24
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/mathking-26y-pick-life"
+    },
+    {
+     "key": "udok:2206",
+     "id": "2206",
+     "partner": "(주)엘지유플러스",
+     "name": "러니 + 추가쿠폰",
+     "desc": "메가커피·다이소 등 매월 1개 선택",
+     "category": "AI",
+     "tags": [],
+     "price": {
+      "regular": 17400,
+      "sale": 13900,
+      "unit": "월",
+      "discountRate": 20
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/learney-26y-pick-life"
+    },
+    {
+     "key": "udok:2207",
+     "id": "2207",
+     "partner": "(주)엘지유플러스",
+     "name": "플랭 + 추가쿠폰",
+     "desc": "메가커피·다이소 등 매월 1개 선택",
+     "category": "AI",
+     "tags": [],
+     "price": {
+      "regular": 32400,
+      "sale": 22000,
+      "unit": "월",
+      "discountRate": 32
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/plang-26y-pick-life"
+    },
+    {
+     "key": "udok:2208",
+     "id": "2208",
+     "partner": "(주)엘지유플러스",
+     "name": "코멘토 + 추가쿠폰",
+     "desc": "메가커피·다이소 등 매월 1개 선택",
+     "category": "AI",
+     "tags": [],
+     "price": {
+      "regular": 36300,
+      "sale": 11500,
+      "unit": "월",
+      "discountRate": 68
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/comento-26y-pick-life"
+    },
+    {
+     "key": "udok:2092",
+     "id": "2092",
+     "partner": "(주)엘지유플러스",
+     "name": "교보eBook + 모아진",
+     "desc": "교보문고 Sam eBook · 국내외 무제한 매거진",
+     "category": "도서/아티클",
+     "tags": [],
+     "price": {
+      "regular": 24900,
+      "sale": 9900,
+      "unit": "월",
+      "discountRate": 60
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/%EA%B5%90%EB%B3%B4sam-%EB%AA%A8%EC%95%84%EC%A7%84-%EA%B5%AC%EB%8F%85%ED%8C%A9"
+    },
+    {
+     "key": "udok:2058",
+     "id": "2058",
+     "partner": "(주)엘지유플러스",
+     "name": "수학대왕 + 과학동아",
+     "desc": "수학AI·과학AI",
+     "category": "AI",
+     "tags": [],
+     "price": {
+      "regular": 31900,
+      "sale": 19800,
+      "unit": "월",
+      "discountRate": 38
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/%EC%88%98%ED%95%99%EB%8C%80%EC%99%95-%EA%B3%BC%ED%95%99%EB%8F%99%EC%95%84air-ai%EA%B5%90%EC%9C%A1%ED%8C%A9-26y"
+    },
+    {
+     "key": "udok:2057",
+     "id": "2057",
+     "partner": "(주)엘지유플러스",
+     "name": "러니 + 플랭",
+     "desc": "국어AI·영어AI",
+     "category": "AI",
+     "tags": [],
+     "price": {
+      "regular": 43000,
+      "sale": 19800,
+      "unit": "월",
+      "discountRate": 54
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/%EB%9F%AC%EB%8B%88-%ED%94%8C%EB%9E%AD-ai%EA%B5%90%EC%9C%A1%ED%8C%A9-26y"
+    },
+    {
+     "key": "udok:2009",
+     "id": "2009",
+     "partner": "밀리의서재",
+     "name": "밀리의서재",
+     "desc": "무제한 전자책·오디오북",
+     "category": "도서/아티클",
+     "tags": [],
+     "price": {
+      "regular": 11900,
+      "sale": 11900,
+      "unit": "월",
+      "discountRate": 0
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/%EB%B0%80%EB%A6%AC%EC%9D%98%EC%84%9C%EC%9E%AC-1%EA%B0%9C%EC%9B%94-new"
+    },
+    {
+     "key": "udok:1479",
+     "id": "1479",
+     "partner": "클래스101",
+     "name": "클래스101 이용권",
+     "desc": "취미 · 자기계발 클래스 이용권",
+     "category": "자기개발",
+     "tags": [],
+     "price": {
+      "regular": 29900,
+      "sale": 19900,
+      "unit": "월",
+      "discountRate": 33
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/%ED%81%B4%EB%9E%98%EC%8A%A4101"
+    },
+    {
+     "key": "udok:1136",
+     "id": "1136",
+     "partner": "리디셀렉트",
+     "name": "리디셀렉트",
+     "desc": "eBOOK·베스트셀러 무제한",
+     "category": "자기개발",
+     "tags": [],
+     "price": {
+      "regular": 4900,
+      "sale": 3900,
+      "unit": "월",
+      "discountRate": 20
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/%EB%A6%AC%EB%94%94%EC%85%80%EB%A0%89%ED%8A%B8-%EB%8F%84%EC%84%9C%EB%A9%A4%EB%B2%84%EC%89%BD-%EC%9B%94%EC%A0%95%EC%95%A1"
+    },
+    {
+     "key": "udok:1004",
+     "id": "1004",
+     "partner": "요기요",
+     "name": "요기요 할인쿠폰팩",
+     "desc": "배달 · 포장 할인혜택 이용권",
+     "category": "식품",
+     "tags": [],
+     "price": {
+      "regular": 12000,
+      "sale": 6000,
+      "unit": "월",
+      "discountRate": 50
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/%EC%9A%94%EA%B8%B0%EC%9A%94-%ED%95%A0%EC%9D%B8%EC%BF%A0%ED%8F%B0-%EC%A0%95%EA%B8%B0%EA%B5%AC%EB%8F%85%EA%B6%8C"
+    },
+    {
+     "key": "udok:1077",
+     "id": "1077",
+     "partner": "지에스엠비즈",
+     "name": "GS칼텍스 주유 · 정비 서비스",
+     "desc": "주유 · 세차 · 정비 할인권",
+     "category": "생활/편의",
+     "tags": [],
+     "price": {
+      "regular": 29000,
+      "sale": 5900,
+      "unit": "월",
+      "discountRate": 80
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/gs%EC%B9%BC%ED%85%8D%EC%8A%A4-%EC%A3%BC%EC%9C%A0%EC%84%B8%EC%B0%A8%EA%B6%8C%EA%B3%BC-%EC%B0%A8%EB%9F%89%EC%A0%95%EB%B9%84%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EB%8F%85%EA%B6%8C"
+    },
+    {
+     "key": "udok:1094",
+     "id": "1094",
+     "partner": "YES24",
+     "name": "예스24",
+     "desc": "eBOOK·무제한 서재",
+     "category": "도서/아티클",
+     "tags": [],
+     "price": {
+      "regular": 5500,
+      "sale": 4500,
+      "unit": "월",
+      "discountRate": 18
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/%EC%98%88%EC%8A%A424-%ED%81%AC%EB%A0%88%EB%A7%88-%ED%81%B4%EB%9F%BD-30%EC%9D%BC-%EC%9D%B4%EC%9A%A9%EA%B6%8C"
+    },
+    {
+     "key": "udok:1002",
+     "id": "1002",
+     "partner": "V 컬러링",
+     "name": "V컬러링",
+     "desc": "보이는 통화연결음",
+     "category": "OTT/뮤직",
+     "tags": [],
+     "price": {
+      "regular": 3300,
+      "sale": 3135,
+      "unit": "월",
+      "discountRate": 5
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/v%EC%BB%AC%EB%9F%AC%EB%A7%81-%ED%95%A0%EC%9D%B8%EA%B5%AC%EB%8F%85%EA%B6%8C"
+    },
+    {
+     "key": "udok:1409",
+     "id": "1409",
+     "partner": "지니뮤직",
+     "name": "지니뮤직",
+     "desc": "좋아하는 음악을 언제 어디서나 무제한 스트리밍",
+     "category": "OTT/뮤직",
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "월",
+      "discountRate": 0
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/%EC%A7%80%EB%8B%88%EB%AE%A4%EC%A7%81-%EB%A7%88%EC%9D%8C%EA%BB%8F-%EB%93%A3%EA%B8%B0-%EC%9B%94%EC%A0%95%EC%95%A1"
+    },
+    {
+     "key": "udok:2233",
+     "id": "2233",
+     "partner": "(주)엘지유플러스",
+     "name": "유튜브 프리미엄 + 이모티콘 플러스",
+     "desc": "광고없는 유튜브 · 카카오 이모티콘 무제한",
+     "category": "OTT/뮤직",
+     "tags": [],
+     "price": {
+      "regular": 19800,
+      "sale": 14900,
+      "unit": "월",
+      "discountRate": 25
+     },
+     "promotions": [
+      {
+       "title": "24개월 할인 프로모션",
+       "period": "2026-10-22~상시",
+       "text": "프로모션가 월 14900원 (프로모션 전 할인가 월 17900원)"
+      }
+     ],
+     "url": "https://www.lguplus.com/pogg/product/youtube-premium-emoticon-pack-26"
+    },
+    {
+     "key": "udok:2234",
+     "id": "2234",
+     "partner": "(주)엘지유플러스",
+     "name": "유튜브 프리미엄 라이트 + 이모티콘 플러스",
+     "desc": "광고부담 덜한 실속형 유튜브 · 카카오 이모티콘 무제한",
+     "category": "OTT/뮤직",
+     "tags": [],
+     "price": {
+      "regular": 13400,
+      "sale": 10900,
+      "unit": "월",
+      "discountRate": 19
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/youtube-premium-lite-emoticon-pack-26"
+    },
+    {
+     "key": "udok:2197",
+     "id": "2197",
+     "partner": "(주)엘지유플러스",
+     "name": "디즈니플러스 + 추가쿠폰",
+     "desc": "메가커피·다이소 등 인기쿠폰 13종 중 택1",
+     "category": "OTT/뮤직",
+     "tags": [],
+     "price": {
+      "regular": 13300,
+      "sale": 9900,
+      "unit": "월",
+      "discountRate": 26
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/disneyplus-26y-pick-life"
+    },
+    {
+     "key": "udok:2212",
+     "id": "2212",
+     "partner": "(주)엘지유플러스",
+     "name": "넷플릭스 + 유튜브 프리미엄",
+     "desc": "2가지 구독을 1년 내내 함께 할인받는 연간이용권",
+     "category": "OTT/뮤직",
+     "tags": [
+      "국내유일"
+     ],
+     "price": {
+      "regular": 21900,
+      "sale": 18900,
+      "unit": "월",
+      "discountRate": 14
+     },
+     "promotions": [
+      {
+       "title": "12개월 할인 프로모션",
+       "period": null,
+       "text": "약정 할인 3000원"
+      }
+     ],
+     "url": "https://www.lguplus.com/pogg/product/double-streaming-3rd"
+    },
+    {
+     "key": "udok:2229",
+     "id": "2229",
+     "partner": "(주)엘지유플러스",
+     "name": "매거진 영화팩",
+     "desc": "무제한 매거진 · CGV 1+1 · 메가커피 2잔",
+     "category": "도서/아티클",
+     "tags": [],
+     "price": {
+      "regular": 26300,
+      "sale": 9900,
+      "unit": "월",
+      "discountRate": 62
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/%EB%A7%A4%EA%B1%B0%EC%A7%84-%EC%98%81%ED%99%94-pack"
+    },
+    {
+     "key": "udok:2228",
+     "id": "2228",
+     "partner": "(주)엘지유플러스",
+     "name": "매거진 라이프팩",
+     "desc": "무제한 매거진 · 다이소/올리브영 2천원 · 메가커피 1잔",
+     "category": "도서/아티클",
+     "tags": [
+      "국내유일"
+     ],
+     "price": {
+      "regular": 15600,
+      "sale": 9900,
+      "unit": "월",
+      "discountRate": 37
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/%EB%A7%A4%EA%B1%B0%EC%A7%84-%EB%9D%BC%EC%9D%B4%ED%94%84-pack"
+    },
+    {
+     "key": "udok:2227",
+     "id": "2227",
+     "partner": "(주)엘지유플러스",
+     "name": "매거진 커피팩",
+     "desc": "무제한 매거진 · 메가커피 5잔",
+     "category": "도서/아티클",
+     "tags": [],
+     "price": {
+      "regular": 18400,
+      "sale": 9900,
+      "unit": "월",
+      "discountRate": 46
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/%EB%A7%A4%EA%B1%B0%EC%A7%84-%EC%BB%A4%ED%94%BC-pack"
+    },
+    {
+     "key": "udok:2224",
+     "id": "2224",
+     "partner": "(주)엘지유플러스",
+     "name": "독서 영화팩",
+     "desc": "교보eBook · CGV 1+1 · 메가커피 2잔",
+     "category": "도서/아티클",
+     "tags": [],
+     "price": {
+      "regular": 26300,
+      "sale": 9900,
+      "unit": "월",
+      "discountRate": 62
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/%EB%8F%85%EC%84%9C-%EC%98%81%ED%99%94-pack"
+    },
+    {
+     "key": "udok:2225",
+     "id": "2225",
+     "partner": "(주)엘지유플러스",
+     "name": "독서 커피팩",
+     "desc": "교보eBook · 메가커피 5잔",
+     "category": "도서/아티클",
+     "tags": [
+      "국내최저가"
+     ],
+     "price": {
+      "regular": 18400,
+      "sale": 9900,
+      "unit": "월",
+      "discountRate": 46
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/%EB%8F%85%EC%84%9C-%EC%BB%A4%ED%94%BC-pack"
+    },
+    {
+     "key": "udok:2226",
+     "id": "2226",
+     "partner": "(주)엘지유플러스",
+     "name": "독서 라이프팩",
+     "desc": "교보eBook · 다이소/올리브영 2천원 · 메가커피 1잔",
+     "category": "도서/아티클",
+     "tags": [],
+     "price": {
+      "regular": 15600,
+      "sale": 9900,
+      "unit": "월",
+      "discountRate": 37
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/%EB%8F%85%EC%84%9C-%EB%9D%BC%EC%9D%B4%ED%94%84-pack"
+    },
+    {
+     "key": "udok:2214",
+     "id": "2214",
+     "partner": "(주)엘지유플러스",
+     "name": "구글 AI Plus + 도미노피자 25% 할인쿠폰",
+     "desc": "Gemini AI·도미노피자 25% 할인쿠폰",
+     "category": "AI",
+     "tags": [],
+     "price": {
+      "regular": 11875,
+      "sale": 6900,
+      "unit": "월",
+      "discountRate": 42
+     },
+     "promotions": [],
+     "url": "https://www.lguplus.com/pogg/product/%EA%B5%AC%EA%B8%80-ai-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EB%8F%84%EB%AF%B8%EB%85%B8%ED%94%BC%EC%9E%90"
+    }
+   ],
+   "events": [
+    {
+     "key": "udok:bnnr430",
+     "title": "일상을 더 찬란하게 유독을 소개합니다",
+     "period": "2026-10-29~상시",
+     "url": "https://www.lguplus.com/pogg/",
+     "kind": "배너"
+    },
+    {
+     "key": "udok:bnnr431",
+     "title": "원하는 것만 골라 담는 나만의 구독",
+     "period": "2026-10-29~상시",
+     "url": "https://www.lguplus.com/pogg/entryWizard?wizardNo=1&depthPageNo=1&wizardPageNo=12&midEntryYn=Y",
+     "kind": "배너"
+    },
+    {
+     "key": "udok:bnnr433",
+     "title": "흩어진 구독을 한곳에서",
+     "period": "2026-10-29~상시",
+     "url": "https://www.lguplus.com/pogg/",
+     "kind": "배너"
+    },
+    {
+     "key": "udok:bnnr432",
+     "title": "통신사 상관없이 가입 가능",
+     "period": "2026-10-29~상시",
+     "url": "https://www.lguplus.com/pogg/event/u%ED%94%8C%EB%9F%AC%EC%8A%A4-vvip-vip-%EA%B5%AC%EB%8F%85-%EB%A7%A4%EC%9B%94-4000%EC%9B%90-%ED%95%A0%EC%9D%B8-%ED%98%9C%ED%83%9D-%EC%95%88%EB%82%B4",
+     "kind": "배너"
+    }
+   ]
+  },
+  "tuniverse": {
+   "status": "ok",
+   "totalOnPage": 147,
+   "url": "https://m.sktuniverse.co.kr/category/sub/tab/detail?ctanId=CC00000012&ctgId=CA00000001",
+   "fetchedAt": "2026-11-18T02:21:30.166Z",
+   "products": [
+    {
+     "key": "tuniverse:PR00000647",
+     "id": "PR00000647",
+     "partner": "Google One",
+     "name": "Google One 100GB",
+     "desc": "클라우드 스토리지 100GB, 휴대전화 자동 백업 등",
+     "category": null,
+     "tags": [
+      "SKT 할인"
+     ],
+     "price": {
+      "regular": 2400,
+      "sale": 2400,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000647"
+    },
+    {
+     "key": "tuniverse:PR00000760",
+     "id": "PR00000760",
+     "partner": "교보문고sam",
+     "name": "교보문고 sam 이용권",
+     "desc": "교보문고 sam 무제한 1개월 이용권 + e교환권 1,000원",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": null,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 9,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000760"
+    },
+    {
+     "key": "tuniverse:PR00000843",
+     "id": "PR00000843",
+     "partner": "T 우주",
+     "name": "YouTube Premium Lite & Melon 모바일 스트리밍클럽",
+     "desc": "YouTube Premium Lite,  Melon 스트리밍(모바일)",
+     "category": null,
+     "tags": [
+      "2개구성"
+     ],
+     "price": {
+      "regular": 13900,
+      "sale": 12900,
+      "unit": "1개월",
+      "discountRate": 7,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000843"
+    },
+    {
+     "key": "tuniverse:PR00000844",
+     "id": "PR00000844",
+     "partner": "T 우주",
+     "name": "YouTube Premium Lite & Melon 스트리밍클럽",
+     "desc": "YouTube Premium Lite, Melon 스트리밍",
+     "category": null,
+     "tags": [
+      "2개구성"
+     ],
+     "price": {
+      "regular": 14900,
+      "sale": 13900,
+      "unit": "1개월",
+      "discountRate": 7,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000844"
+    },
+    {
+     "key": "tuniverse:PR00000837",
+     "id": "PR00000837",
+     "partner": "YouTube Premium",
+     "name": "YouTube Premium Lite",
+     "desc": "Premium Lite로 광고는 적게, 좋아하는 건 더 많이",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 8500,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 7,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000837"
+    },
+    {
+     "key": "tuniverse:PR00000821",
+     "id": "PR00000821",
+     "partner": "T 우주",
+     "name": "Google AI Plans",
+     "desc": "Google AI Plans",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 6900,
+      "sale": 6900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000821"
+    },
+    {
+     "key": "tuniverse:PR00000813",
+     "id": "PR00000813",
+     "partner": "T 우주",
+     "name": "Google AI Plans + 추가 상품",
+     "desc": "Google AI Plans + OTT",
+     "category": null,
+     "tags": [
+      "NEW",
+      "SKT 할인",
+      "2개구성"
+     ],
+     "price": {
+      "regular": 11400,
+      "sale": 11400,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000813"
+    },
+    {
+     "key": "tuniverse:PR00000783",
+     "id": "PR00000783",
+     "partner": "T 우주",
+     "name": "TVING & Wavve 광고형 + 추가 상품",
+     "desc": "TVING & Wavve 광고형 + OTT",
+     "category": null,
+     "tags": [
+      "NEW",
+      "SKT 할인",
+      "3개구성"
+     ],
+     "price": {
+      "regular": null,
+      "sale": 13500,
+      "unit": "1개월",
+      "discountRate": 1230,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000783"
+    },
+    {
+     "key": "tuniverse:PR00000855",
+     "id": "PR00000855",
+     "partner": "T 우주",
+     "name": "TVING & Wavve 광고형 + YouTube Premium Lite",
+     "desc": "TVING 광고형 스탠다드, Wavve 광고형 스탠다드, YouTube Premium Lite",
+     "category": null,
+     "tags": [
+      "NEW",
+      "3개구성"
+     ],
+     "price": {
+      "regular": 14400,
+      "sale": 14400,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000855"
+    },
+    {
+     "key": "tuniverse:PR00000856",
+     "id": "PR00000856",
+     "partner": "T 우주",
+     "name": "TVING & Wavve 광고형 + Disney+ 스탠다드",
+     "desc": "TVING 광고형 스탠다드, Wavve 광고형 스탠다드, Disney+ 스탠다드",
+     "category": null,
+     "tags": [
+      "NEW",
+      "3개구성"
+     ],
+     "price": {
+      "regular": 16400,
+      "sale": 16400,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000856"
+    },
+    {
+     "key": "tuniverse:PR00000785",
+     "id": "PR00000785",
+     "partner": "T 우주",
+     "name": "YouTube Premium",
+     "desc": "YouTube 광고 없이 감상, 오프라인 저장, 백그라운드 재생",
+     "category": null,
+     "tags": [
+      "BEST",
+      "SKT 할인"
+     ],
+     "price": {
+      "regular": 14900,
+      "sale": 14900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000785"
+    },
+    {
+     "key": "tuniverse:PR00000776",
+     "id": "PR00000776",
+     "partner": "T 우주",
+     "name": "T 우주 Big 4",
+     "desc": "파리바게뜨/ 투썸플레이스/ 세븐일레븐 최대 30% 할인 + 배달의민족 3,000원 쿠폰 3장",
+     "category": null,
+     "tags": [
+      "NEW",
+      "SKT 할인",
+      "4개구성"
+     ],
+     "price": {
+      "regular": 16900,
+      "sale": 16900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000776"
+    },
+    {
+     "key": "tuniverse:PR00000788",
+     "id": "PR00000788",
+     "partner": "T 우주",
+     "name": "Netflix",
+     "desc": "Netflix 이용권",
+     "category": null,
+     "tags": [
+      "BEST",
+      "SKT 할인"
+     ],
+     "price": {
+      "regular": 7000,
+      "sale": 7000,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000788"
+    },
+    {
+     "key": "tuniverse:PR00000789",
+     "id": "PR00000789",
+     "partner": "T 우주",
+     "name": "Disney+",
+     "desc": "Disney+ 이용권",
+     "category": null,
+     "tags": [
+      "BEST",
+      "SKT 할인"
+     ],
+     "price": {
+      "regular": 11500,
+      "sale": 9900,
+      "unit": "1개월",
+      "discountRate": 14,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000789"
+    },
+    {
+     "key": "tuniverse:PR00000780",
+     "id": "PR00000780",
+     "partner": "T 우주",
+     "name": "TVING & Wavve 스탠다드",
+     "desc": "TVING 스탠다드, Wavve 콘텐츠 팩 플러스",
+     "category": null,
+     "tags": [
+      "NEW",
+      "SKT 할인",
+      "2개구성"
+     ],
+     "price": {
+      "regular": 24400,
+      "sale": 13900,
+      "unit": "1개월",
+      "discountRate": 43,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000780"
+    },
+    {
+     "key": "tuniverse:PR00000779",
+     "id": "PR00000779",
+     "partner": "T 우주",
+     "name": "TVING & Wavve 광고형",
+     "desc": "TVING 광고형 스탠다드,  Wavve 광고형 스탠다드",
+     "category": null,
+     "tags": [
+      "NEW",
+      "SKT 할인",
+      "2개구성"
+     ],
+     "price": {
+      "regular": 11000,
+      "sale": 6500,
+      "unit": "1개월",
+      "discountRate": 41,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000779"
+    },
+    {
+     "key": "tuniverse:PR00000786",
+     "id": "PR00000786",
+     "partner": "T 우주",
+     "name": "YouTube Premium + 추가 상품",
+     "desc": "YouTube Premium 이용권 + OTT",
+     "category": null,
+     "tags": [
+      "BEST",
+      "SKT 할인",
+      "2개구성"
+     ],
+     "price": {
+      "regular": 12400,
+      "sale": 12400,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000786"
+    },
+    {
+     "key": "tuniverse:PR00000775",
+     "id": "PR00000775",
+     "partner": "T 우주",
+     "name": "T 우주 Big 3",
+     "desc": "파리바게뜨/ 투썸플레이스/ 세븐일레븐 최대 30% 할인",
+     "category": null,
+     "tags": [
+      "NEW",
+      "SKT 할인",
+      "3개구성"
+     ],
+     "price": {
+      "regular": 9900,
+      "sale": 9900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000775"
+    },
+    {
+     "key": "tuniverse:PR00000782",
+     "id": "PR00000782",
+     "partner": "T 우주",
+     "name": "Netflix + 추가 상품",
+     "desc": "Netflix 이용권 + OTT",
+     "category": null,
+     "tags": [
+      "BEST",
+      "SKT 할인",
+      "2개구성"
+     ],
+     "price": {
+      "regular": 11500,
+      "sale": 11500,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000782"
+    },
+    {
+     "key": "tuniverse:PR00000790",
+     "id": "PR00000790",
+     "partner": "T 우주",
+     "name": "Disney+ + 추가 상품",
+     "desc": "Disney+ 이용권 + OTT",
+     "category": null,
+     "tags": [
+      "SKT 할인",
+      "2개구성"
+     ],
+     "price": {
+      "regular": 14400,
+      "sale": 14400,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000790"
+    },
+    {
+     "key": "tuniverse:PR00000781",
+     "id": "PR00000781",
+     "partner": "T 우주",
+     "name": "TVING & Wavve 프리미엄",
+     "desc": "TVING 프리미엄, Wavve 콘텐츠 팩 프리미엄",
+     "category": null,
+     "tags": [
+      "NEW",
+      "SKT 할인",
+      "2개구성"
+     ],
+     "price": {
+      "regular": 30900,
+      "sale": 17900,
+      "unit": "1개월",
+      "discountRate": 42,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000781"
+    },
+    {
+     "key": "tuniverse:PR00000784",
+     "id": "PR00000784",
+     "partner": "T 우주",
+     "name": "TVING & Wavve 스탠다드 + 추가 상품",
+     "desc": "TVING & Wavve 스탠다드 + OTT",
+     "category": null,
+     "tags": [
+      "NEW",
+      "SKT 할인",
+      "3개구성"
+     ],
+     "price": {
+      "regular": null,
+      "sale": 20900,
+      "unit": "1개월",
+      "discountRate": 43,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000784"
+    },
+    {
+     "key": "tuniverse:PR00000787",
+     "id": "PR00000787",
+     "partner": "T 우주",
+     "name": "TVING & Wavve 프리미엄 + 추가 상품",
+     "desc": "TVING & Wavve 프리미엄 + OTT",
+     "category": null,
+     "tags": [
+      "NEW",
+      "SKT 할인",
+      "3개구성"
+     ],
+     "price": {
+      "regular": null,
+      "sale": 24900,
+      "unit": "1개월",
+      "discountRate": 42,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000787"
+    },
+    {
+     "key": "tuniverse:PR00000778",
+     "id": "PR00000778",
+     "partner": "T 우주",
+     "name": "T 우주 Big 6",
+     "desc": "CU/스타벅스 최대 20% 할인 + 올리브영/배달의민족/배스킨라빈스/CGV 최대 38,000원 이상의 혜택",
+     "category": null,
+     "tags": [
+      "NEW",
+      "SKT 할인",
+      "6개구성"
+     ],
+     "price": {
+      "regular": 25900,
+      "sale": 25900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000778"
+    },
+    {
+     "key": "tuniverse:PR00000777",
+     "id": "PR00000777",
+     "partner": "T 우주",
+     "name": "T 우주 Big 5",
+     "desc": "CU/ 스타벅스 최대 20% 할인 + 올리브영/ 배달의민족/ 배스킨라빈스 최대 25,000원 이상의 혜택",
+     "category": null,
+     "tags": [
+      "NEW",
+      "SKT 할인",
+      "5개구성"
+     ],
+     "price": {
+      "regular": 20900,
+      "sale": 20900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000777"
+    },
+    {
+     "key": "tuniverse:PR00000606",
+     "id": "PR00000606",
+     "partner": "Wavve",
+     "name": "Wavve 이용권",
+     "desc": "Wavve 이용권 택1",
+     "category": null,
+     "tags": [
+      "BEST",
+      "SKT 할인"
+     ],
+     "price": {
+      "regular": null,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 51,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000606"
+    },
+    {
+     "key": "tuniverse:PR00000673",
+     "id": "PR00000673",
+     "partner": "티빙",
+     "name": "티빙 이용권",
+     "desc": "티빙 이용권 택 1",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 5500,
+      "sale": 4500,
+      "unit": "1개월",
+      "discountRate": 18,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000673"
+    },
+    {
+     "key": "tuniverse:PR00000849",
+     "id": "PR00000849",
+     "partner": "T 우주",
+     "name": "YouTube Premium & 티빙 광고형 스탠다드",
+     "desc": "YouTube Premium, 티빙 광고형 스탠다드",
+     "category": null,
+     "tags": [
+      "NEW",
+      "2개구성"
+     ],
+     "price": {
+      "regular": 12400,
+      "sale": 12400,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000849"
+    },
+    {
+     "key": "tuniverse:PR00000857",
+     "id": "PR00000857",
+     "partner": "T 우주",
+     "name": "TVING & Wavve 스탠다드 + YouTube Premium Lite",
+     "desc": "TVING 스탠다드, Wavve 스탠다드, YouTube Premium Lite",
+     "category": null,
+     "tags": [
+      "NEW",
+      "3개구성"
+     ],
+     "price": {
+      "regular": 21800,
+      "sale": 21800,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000857"
+    },
+    {
+     "key": "tuniverse:PR00000834",
+     "id": "PR00000834",
+     "partner": "T 우주",
+     "name": "YouTube Premium Lite & FLO 콘텐츠 팩",
+     "desc": "YouTube Premium Lite, FLO 스트리밍(모바일)",
+     "category": null,
+     "tags": [
+      "NEW",
+      "2개구성"
+     ],
+     "price": {
+      "regular": 13900,
+      "sale": 12900,
+      "unit": "1개월",
+      "discountRate": 7,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000834"
+    },
+    {
+     "key": "tuniverse:PR00000836",
+     "id": "PR00000836",
+     "partner": "T 우주",
+     "name": "YouTube Premium Lite & FLO 콘텐츠 팩 플러스",
+     "desc": "YouTube Premium Lite, FLO 스트리밍(기기제한 없음)",
+     "category": null,
+     "tags": [
+      "NEW",
+      "2개구성"
+     ],
+     "price": {
+      "regular": 14900,
+      "sale": 13900,
+      "unit": "1개월",
+      "discountRate": 7,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000836"
+    },
+    {
+     "key": "tuniverse:PR00000817",
+     "id": "PR00000817",
+     "partner": "T 우주",
+     "name": "YouTube Premium Lite & 배달의민족",
+     "desc": "YouTube Premium Lite 이용권, 배달의민족 3,000원 쿠폰 3장",
+     "category": null,
+     "tags": [
+      "BEST",
+      "SKT 할인",
+      "2개구성"
+     ],
+     "price": {
+      "regular": 14900,
+      "sale": 14900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000817"
+    },
+    {
+     "key": "tuniverse:PR00000765",
+     "id": "PR00000765",
+     "partner": "윌라",
+     "name": "윌라 베이직 멤버십",
+     "desc": "윌라 베이직 멤버십 월간 이용권",
+     "category": null,
+     "tags": [
+      "NEW",
+      "플러스 할인"
+     ],
+     "price": {
+      "regular": 12500,
+      "sale": 10900,
+      "unit": "1개월",
+      "discountRate": 13,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "플러스 할인",
+       "text": "플러스 할인가 9200원"
+      }
+     ],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000765"
+    },
+    {
+     "key": "tuniverse:PR00000768",
+     "id": "PR00000768",
+     "partner": "T 우주",
+     "name": "T 우주패스 with 윌라",
+     "desc": "윌라 이용권 + 추가 혜택 1개 더",
+     "category": null,
+     "tags": [
+      "NEW",
+      "2개구성"
+     ],
+     "price": {
+      "regular": 10900,
+      "sale": 10900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000768"
+    },
+    {
+     "key": "tuniverse:PR00000766",
+     "id": "PR00000766",
+     "partner": "윌라",
+     "name": "윌라 패밀리 멤버십",
+     "desc": "윌라 패밀리 멤버십 월간 이용권",
+     "category": null,
+     "tags": [
+      "NEW",
+      "플러스 할인"
+     ],
+     "price": {
+      "regular": 16900,
+      "sale": 13900,
+      "unit": "1개월",
+      "discountRate": 18,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "플러스 할인",
+       "text": "플러스 할인가 11800원"
+      }
+     ],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000766"
+    },
+    {
+     "key": "tuniverse:PR00000761",
+     "id": "PR00000761",
+     "partner": "T 우주",
+     "name": "교보문고 sam + 추가 혜택",
+     "desc": "교보문고 sam 무제한 1개월 이용권 + 추가 상품 1개 더",
+     "category": null,
+     "tags": [
+      "NEW",
+      "2개구성"
+     ],
+     "price": {
+      "regular": 9900,
+      "sale": 9900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000761"
+    },
+    {
+     "key": "tuniverse:PR00000769",
+     "id": "PR00000769",
+     "partner": "모아진",
+     "name": "모아진 초이스 이용권",
+     "desc": "모아진 초이스(매거진 5종 선택) 구독권",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": null,
+      "sale": 5500,
+      "unit": "1개월",
+      "discountRate": 100,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000769"
+    },
+    {
+     "key": "tuniverse:PR00000770",
+     "id": "PR00000770",
+     "partner": "모아진",
+     "name": "모아진 베이직 이용권",
+     "desc": "모아진 베이직(국내 매거진 무제한) 구독권",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": null,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 100,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000770"
+    },
+    {
+     "key": "tuniverse:PR00000771",
+     "id": "PR00000771",
+     "partner": "모아진",
+     "name": "모아진 프리미엄 이용권",
+     "desc": "모아진 프리미엄(전 세계 매거진 무제한) 구독권",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": null,
+      "sale": 11900,
+      "unit": "1개월",
+      "discountRate": 100,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000771"
+    },
+    {
+     "key": "tuniverse:PR00000764",
+     "id": "PR00000764",
+     "partner": "클럽클리오",
+     "name": "클럽클리오 쿠폰팩",
+     "desc": "클럽클리오 총 22,000원 할인 쿠폰팩",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000764"
+    },
+    {
+     "key": "tuniverse:PR00000759",
+     "id": "PR00000759",
+     "partner": "농협하나로마트",
+     "name": "하나로마트 쿠폰팩",
+     "desc": "하나로마트 5천 원, 3천 원 할인 쿠폰",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000759"
+    },
+    {
+     "key": "tuniverse:PR00000758",
+     "id": "PR00000758",
+     "partner": "T 우주",
+     "name": "T 우주패스 올리브영&스타벅스&이마트24",
+     "desc": "올리브영 3종 쿠폰팩, 스타벅스 20% 할인, 이마트24 1,000원 당 200원 할인",
+     "category": null,
+     "tags": [
+      "NEW",
+      "SKT 할인",
+      "3개구성"
+     ],
+     "price": {
+      "regular": 9900,
+      "sale": 9900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000758"
+    },
+    {
+     "key": "tuniverse:PR00000751",
+     "id": "PR00000751",
+     "partner": "더중앙플러스",
+     "name": "더중앙플러스 이용권",
+     "desc": "더중앙플러스 베이직 이용권",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 4900,
+      "sale": 4900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000751"
+    },
+    {
+     "key": "tuniverse:PR00000729",
+     "id": "PR00000729",
+     "partner": "Melon",
+     "name": "Melon 모바일 스트리밍클럽",
+     "desc": "멜론 모바일 무제한 듣기",
+     "category": null,
+     "tags": [
+      "NEW",
+      "플러스 할인"
+     ],
+     "price": {
+      "regular": 7590,
+      "sale": 6900,
+      "unit": "1개월",
+      "discountRate": 9,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "플러스 할인",
+       "text": "플러스 할인가 6500원"
+      }
+     ],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000729"
+    },
+    {
+     "key": "tuniverse:PR00000730",
+     "id": "PR00000730",
+     "partner": "Melon",
+     "name": "Melon 스트리밍클럽",
+     "desc": "멜론 무제한 듣기",
+     "category": null,
+     "tags": [
+      "NEW",
+      "플러스 할인"
+     ],
+     "price": {
+      "regular": 8690,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 9,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "플러스 할인",
+       "text": "플러스 할인가 7400원"
+      }
+     ],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000730"
+    },
+    {
+     "key": "tuniverse:PR00000738",
+     "id": "PR00000738",
+     "partner": "T 우주",
+     "name": "T 우주패스 with Melon",
+     "desc": "멜론 1개월 이용권 + 추가 혜택 1개 더",
+     "category": null,
+     "tags": [
+      "NEW",
+      "2개구성"
+     ],
+     "price": {
+      "regular": 7500,
+      "sale": 7500,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000738"
+    },
+    {
+     "key": "tuniverse:PR00000740",
+     "id": "PR00000740",
+     "partner": "Melon",
+     "name": "멜론 이용권",
+     "desc": "멜론 이용권 택 1",
+     "category": null,
+     "tags": [
+      "NEW",
+      "플러스 할인"
+     ],
+     "price": {
+      "regular": 7590,
+      "sale": 6900,
+      "unit": "1개월",
+      "discountRate": 9,
+      "from": true
+     },
+     "promotions": [
+      {
+       "title": "플러스 할인",
+       "text": "플러스 할인가 6500원"
+      }
+     ],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000740"
+    },
+    {
+     "key": "tuniverse:PR00000714",
+     "id": "PR00000714",
+     "partner": "T 우주",
+     "name": "T 우주패스 with YouTube Premium",
+     "desc": "YouTube Premium 이용권 + 추가 혜택 1개 더",
+     "category": null,
+     "tags": [
+      "BEST",
+      "2개구성"
+     ],
+     "price": {
+      "regular": null,
+      "sale": 14900,
+      "unit": "1개월",
+      "discountRate": 7,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000714"
+    },
+    {
+     "key": "tuniverse:PR00000713",
+     "id": "PR00000713",
+     "partner": "유튜브 프리미엄",
+     "name": "YouTube Premium",
+     "desc": "YouTube 광고 없이 감상, 오프라인 저장, 백그라운드 재생",
+     "category": null,
+     "tags": [
+      "BEST"
+     ],
+     "price": {
+      "regular": 14900,
+      "sale": 14900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000713"
+    },
+    {
+     "key": "tuniverse:PR00000734",
+     "id": "PR00000734",
+     "partner": "CU",
+     "name": "CU 할인",
+     "desc": "CU 매장 구매 1,000원당 200원 할인",
+     "category": null,
+     "tags": [
+      "BEST",
+      "SKT 할인"
+     ],
+     "price": {
+      "regular": 4900,
+      "sale": 4900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000734"
+    },
+    {
+     "key": "tuniverse:PR00000739",
+     "id": "PR00000739",
+     "partner": "요기요",
+     "name": "요기요 혜택팩",
+     "desc": "요기요 2,000원 쿠폰 5개, 1,000원 쿠폰 3개, 요마트 1,000원 할인 무제한, 요편의점 1,000원 할인 무제한",
+     "category": null,
+     "tags": [
+      "SKT 할인"
+     ],
+     "price": {
+      "regular": 4900,
+      "sale": 4900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000739"
+    },
+    {
+     "key": "tuniverse:PR00000772",
+     "id": "PR00000772",
+     "partner": "T 우주",
+     "name": "T 우주패스 with YouTube Premium + 스타벅스 할인",
+     "desc": "YouTube Premium 이용권 + 스타벅스 제조 음료 20% 할인",
+     "category": null,
+     "tags": [
+      "NEW",
+      "2개구성"
+     ],
+     "price": {
+      "regular": 14900,
+      "sale": 14900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000772"
+    },
+    {
+     "key": "tuniverse:PR00000702",
+     "id": "PR00000702",
+     "partner": "쑥쑥찰칵",
+     "name": "쑥쑥찰칵  애드프리 플러스 이용권",
+     "desc": "쑥쑥찰칵 애드프리 플러스 이용권",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": null,
+      "sale": 5500,
+      "unit": "1개월",
+      "discountRate": 30,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000702"
+    },
+    {
+     "key": "tuniverse:PR00000701",
+     "id": "PR00000701",
+     "partner": "쑥쑥찰칵",
+     "name": "쑥쑥찰칵  프리미엄 플러스 이용권",
+     "desc": "쑥쑥찰칵 프리미엄 플러스 이용권",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000701"
+    },
+    {
+     "key": "tuniverse:PR00000666",
+     "id": "PR00000666",
+     "partner": "SK일렉링크",
+     "name": "SK일렉링크 쿠폰팩",
+     "desc": "SK일렉링크 급속 충전 15,000원 쿠폰팩",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000666"
+    },
+    {
+     "key": "tuniverse:PR00000694",
+     "id": "PR00000694",
+     "partner": "런드리고",
+     "name": "런드리고 운동화세탁 쿠폰",
+     "desc": "런드리고 운동화 세탁권 1매",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 5500,
+      "sale": 5500,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000694"
+    },
+    {
+     "key": "tuniverse:PR00000693",
+     "id": "PR00000693",
+     "partner": "런드리고",
+     "name": "런드리고 세탁 쿠폰",
+     "desc": "세탁 품목 제한없이 사용가능한  세탁지원금 1만원",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000693"
+    },
+    {
+     "key": "tuniverse:PR00000691",
+     "id": "PR00000691",
+     "partner": "설로인",
+     "name": "설로인 쿠폰팩",
+     "desc": "설로인 한우, 돼지고기, 간편식등 최대 33,000원 혜택",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000691"
+    },
+    {
+     "key": "tuniverse:PR00000696",
+     "id": "PR00000696",
+     "partner": "해피문데이",
+     "name": "해피문데이 쿠폰팩",
+     "desc": "해피문데이 월경용품 8,000원 할인 쿠폰 2개",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000696"
+    },
+    {
+     "key": "tuniverse:PR00000681",
+     "id": "PR00000681",
+     "partner": "스타벅스",
+     "name": "스타벅스 할인",
+     "desc": "스타벅스 제조 음료 20% 할인",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 6200,
+      "sale": 6200,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000681"
+    },
+    {
+     "key": "tuniverse:PR00000682",
+     "id": "PR00000682",
+     "partner": "배달의민족",
+     "name": "배달의민족 쿠폰팩",
+     "desc": "배달의민족 3,000원 쿠폰 3장",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000682"
+    },
+    {
+     "key": "tuniverse:PR00000663",
+     "id": "PR00000663",
+     "partner": "밀리의서재",
+     "name": "밀리의서재 이용권",
+     "desc": "독서와 무제한 친해지리, 밀리의 서재",
+     "category": null,
+     "tags": [
+      "NEW",
+      "플러스 할인"
+     ],
+     "price": {
+      "regular": 11900,
+      "sale": 11900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "플러스 할인",
+       "text": "플러스 할인가 10100원"
+      }
+     ],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000663"
+    },
+    {
+     "key": "tuniverse:PR00000664",
+     "id": "PR00000664",
+     "partner": "T 우주",
+     "name": "T 우주패스 with 밀리의서재",
+     "desc": "밀리의서재 이용권 + 추가 혜택 1개 더",
+     "category": null,
+     "tags": [
+      "NEW",
+      "2개구성"
+     ],
+     "price": {
+      "regular": 11900,
+      "sale": 11900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000664"
+    },
+    {
+     "key": "tuniverse:PR00000683",
+     "id": "PR00000683",
+     "partner": "이모티콘 플러스",
+     "name": "이모티콘 플러스 1개월 이용권",
+     "desc": "이모티콘 플러스 1개월권",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 6200,
+      "sale": 6200,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000683"
+    },
+    {
+     "key": "tuniverse:PR00000684",
+     "id": "PR00000684",
+     "partner": "스피킹맥스, 맥스AI, 맥스AI월드",
+     "name": "스피킹맥스 이용권",
+     "desc": "스피킹맥스 두근톡 30일 이용권",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000684"
+    },
+    {
+     "key": "tuniverse:PR00000685",
+     "id": "PR00000685",
+     "partner": "폴인",
+     "name": "폴인 이용권",
+     "desc": "폴인 Lite 1개월 이용권",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": null,
+      "sale": 7000,
+      "unit": "1개월",
+      "discountRate": 7,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000685"
+    },
+    {
+     "key": "tuniverse:PR00000670",
+     "id": "PR00000670",
+     "partner": "빽다방",
+     "name": "빽다방 쿠폰",
+     "desc": "빽다방 아메리카노(ICED) 무료 쿠폰 2장",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 5500,
+      "sale": 5500,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000670"
+    },
+    {
+     "key": "tuniverse:PR00000669",
+     "id": "PR00000669",
+     "partner": "도미노피자",
+     "name": "도미노피자 쿠폰",
+     "desc": "도미노피자 8,000원 할인 쿠폰 2장",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 5500,
+      "sale": 5500,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000669"
+    },
+    {
+     "key": "tuniverse:PR00000657",
+     "id": "PR00000657",
+     "partner": "T 우주",
+     "name": "T 우주패스 티빙 & 네이버웹툰",
+     "desc": "티빙 & 네이버웹툰 쿠키 30개",
+     "category": null,
+     "tags": [
+      "NEW",
+      "2개구성"
+     ],
+     "price": {
+      "regular": 5900,
+      "sale": 5900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000657"
+    },
+    {
+     "key": "tuniverse:PR00000658",
+     "id": "PR00000658",
+     "partner": "네이버웹툰",
+     "name": "네이버웹툰 쿠키",
+     "desc": "네이버웹툰 쿠키 30개",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 5900,
+      "sale": 5900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000658"
+    },
+    {
+     "key": "tuniverse:PR00000651",
+     "id": "PR00000651",
+     "partner": "T 우주",
+     "name": "T 우주패스 with 티빙",
+     "desc": "티빙 이용권 + 추가 혜택 1개 더",
+     "category": null,
+     "tags": [
+      "2개구성"
+     ],
+     "price": {
+      "regular": 5500,
+      "sale": 5500,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000651"
+    },
+    {
+     "key": "tuniverse:PR00000674",
+     "id": "PR00000674",
+     "partner": "티빙",
+     "name": "티빙 이용권",
+     "desc": "티빙 이용권 택1",
+     "category": null,
+     "tags": [
+      "NEW",
+      "플러스 할인"
+     ],
+     "price": {
+      "regular": 5500,
+      "sale": 4500,
+      "unit": "1개월",
+      "discountRate": 18,
+      "from": true
+     },
+     "promotions": [
+      {
+       "title": "플러스 할인",
+       "text": "플러스 할인가 11400원"
+      }
+     ],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000674"
+    },
+    {
+     "key": "tuniverse:PR00000774",
+     "id": "PR00000774",
+     "partner": "T 우주",
+     "name": "T 우주패스 with 티빙 + 스타벅스 할인",
+     "desc": "티빙 이용권 + 스타벅스 제조 음료 20% 할인",
+     "category": null,
+     "tags": [
+      "NEW",
+      "2개구성"
+     ],
+     "price": {
+      "regular": 6200,
+      "sale": 6200,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000774"
+    },
+    {
+     "key": "tuniverse:PR00000853",
+     "id": "PR00000853",
+     "partner": "T 우주",
+     "name": "T 우주패스 with 티빙 + Melon 스트리밍 라이트",
+     "desc": "티빙 이용권 + 멜론 이용권(광고 포함)",
+     "category": null,
+     "tags": [
+      "NEW",
+      "2개구성"
+     ],
+     "price": {
+      "regular": 6900,
+      "sale": 6900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000853"
+    },
+    {
+     "key": "tuniverse:PR00000620",
+     "id": "PR00000620",
+     "partner": "투썸플레이스",
+     "name": "투썸플레이스 20% 할인",
+     "desc": "투썸플레이스 20% 할인",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 1900,
+      "sale": 1900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000620"
+    },
+    {
+     "key": "tuniverse:PR00000635",
+     "id": "PR00000635",
+     "partner": "T 우주",
+     "name": "T 우주패스 100",
+     "desc": "더 많은 혜택을 위해 필요한 건, 단 돈 100원",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 100,
+      "sale": 100,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000635"
+    },
+    {
+     "key": "tuniverse:PR00000636",
+     "id": "PR00000636",
+     "partner": "바프독(BARFDOG)",
+     "name": "바프독 3만원 할인 쿠폰팩",
+     "desc": "바프독 반려견 식사 3만원 쿠폰팩",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000636"
+    },
+    {
+     "key": "tuniverse:PR00000561",
+     "id": "PR00000561",
+     "partner": "Spatial Touch",
+     "name": "Spatial Touch™ Pro 이용권",
+     "desc": "Spatial Touch™ Pro 구독 월2,310원 할인(플러스구독시)",
+     "category": null,
+     "tags": [
+      "NEW",
+      "플러스 할인"
+     ],
+     "price": {
+      "regular": 3300,
+      "sale": 3300,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "플러스 할인",
+       "text": "플러스 할인가 990원"
+      }
+     ],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000561"
+    },
+    {
+     "key": "tuniverse:PR00000625",
+     "id": "PR00000625",
+     "partner": "스노우(SNOW)",
+     "name": "SNOW VIP 이용권",
+     "desc": "SNOW VIP 1개월 구독권 할인",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 5500,
+      "sale": 5500,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000625"
+    },
+    {
+     "key": "tuniverse:PR00000619",
+     "id": "PR00000619",
+     "partner": "파리바게뜨",
+     "name": "파리바게뜨 1,000원 당 200원 할인",
+     "desc": "파리바게뜨 1,000원당 200원 할인",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 1900,
+      "sale": 1900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000619"
+    },
+    {
+     "key": "tuniverse:PR00000571",
+     "id": "PR00000571",
+     "partner": "클래스101",
+     "name": "클래스101 이용권",
+     "desc": "클래스101 월간 구독권",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 29900,
+      "sale": 19900,
+      "unit": "1개월",
+      "discountRate": 33,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000571"
+    },
+    {
+     "key": "tuniverse:PR00000534",
+     "id": "PR00000534",
+     "partner": "이브이체크 evcheck",
+     "name": "EVcheck 프리미엄 이용권",
+     "desc": "EV 이상 진단 솔루션 EVcheck 프리미엄 플랜",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 1500,
+      "sale": 1500,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000534"
+    },
+    {
+     "key": "tuniverse:PR00000562",
+     "id": "PR00000562",
+     "partner": "바이버",
+     "name": "바이버 혜택팩",
+     "desc": "바이버 6만 원 할인 혜택, 매달 1만 포인트 적립",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000562"
+    },
+    {
+     "key": "tuniverse:PR00000538",
+     "id": "PR00000538",
+     "partner": "T 우주",
+     "name": "T 우주패스 with Disney+",
+     "desc": "Disney+ 이용권 + 추가 혜택 1개 더",
+     "category": null,
+     "tags": [
+      "BEST",
+      "장기 구독 할인",
+      "2개구성"
+     ],
+     "price": {
+      "regular": 9900,
+      "sale": 9900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000538"
+    },
+    {
+     "key": "tuniverse:PR00000773",
+     "id": "PR00000773",
+     "partner": "T 우주",
+     "name": "T 우주패스 with Disney+ + 스타벅스 할인",
+     "desc": "Disney+ 이용권 + 스타벅스 제조 음료 20% 할인",
+     "category": null,
+     "tags": [
+      "NEW",
+      "2개구성"
+     ],
+     "price": {
+      "regular": 9900,
+      "sale": 9900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000773"
+    },
+    {
+     "key": "tuniverse:PR00000544",
+     "id": "PR00000544",
+     "partner": "쉐이크쉑",
+     "name": "쉐이크쉑 쿠폰",
+     "desc": "쉐이크쉑의 크링클컷 바삭 프라이 (4,900원) 교환권",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": null,
+      "sale": 5500,
+      "unit": "1개월",
+      "discountRate": 60,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000544"
+    },
+    {
+     "key": "tuniverse:PR00000612",
+     "id": "PR00000612",
+     "partner": "필그램",
+     "name": "필그램 쿠폰",
+     "desc": "필그램 적립금 10,000원",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": null,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 100,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000612"
+    },
+    {
+     "key": "tuniverse:PR00000545",
+     "id": "PR00000545",
+     "partner": "리브인리프",
+     "name": "리브인리프 쿠폰팩",
+     "desc": "꽃다발 50% 할인쿠폰, 책과 꽃다발 1만원 할인쿠폰",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000545"
+    },
+    {
+     "key": "tuniverse:PR00000611",
+     "id": "PR00000611",
+     "partner": "오토카지",
+     "name": "오토카지 쿠폰팩",
+     "desc": "오토카지 15,000원 할인 쿠폰 2장",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": null,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 100,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000611"
+    },
+    {
+     "key": "tuniverse:PR00000524",
+     "id": "PR00000524",
+     "partner": "카앤피플",
+     "name": "카앤피플 쿠폰",
+     "desc": "카앤피플 15,000원 할인 쿠폰",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000524"
+    },
+    {
+     "key": "tuniverse:PR00000523",
+     "id": "PR00000523",
+     "partner": "리디셀렉트",
+     "name": "리디셀렉트 이용권",
+     "desc": "리디셀렉트 1개월 이용권",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 5500,
+      "sale": 5500,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000523"
+    },
+    {
+     "key": "tuniverse:PR00000525",
+     "id": "PR00000525",
+     "partner": "롱블랙",
+     "name": "롱블랙 이용권",
+     "desc": "롱블랙 멤버십 1개월 이용권",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 5500,
+      "sale": 5500,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000525"
+    },
+    {
+     "key": "tuniverse:PR00000427",
+     "id": "PR00000427",
+     "partner": "자담치킨",
+     "name": "자담치킨 쿠폰팩",
+     "desc": "모든 메뉴 8,000원 할인 쿠폰, 모든 메뉴 2,000원 할인 쿠폰",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000427"
+    },
+    {
+     "key": "tuniverse:PR00000428",
+     "id": "PR00000428",
+     "partner": "바른치킨",
+     "name": "바른치킨 쿠폰",
+     "desc": "바른치킨 앱 전용 1만 원 할인 쿠폰",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000428"
+    },
+    {
+     "key": "tuniverse:PR00000436",
+     "id": "PR00000436",
+     "partner": "T 우주",
+     "name": "T 우주패스 Google One",
+     "desc": "Google One 100GB + 추가 상품 1~2개 더",
+     "category": null,
+     "tags": [
+      "2개+"
+     ],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000436"
+    },
+    {
+     "key": "tuniverse:PR00000426",
+     "id": "PR00000426",
+     "partner": "한컴",
+     "name": "한컴독스 이용권",
+     "desc": "한컴오피스 온라인 사용 + PC  5대",
+     "category": null,
+     "tags": [
+      "플러스 할인"
+     ],
+     "price": {
+      "regular": 5900,
+      "sale": 5900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "플러스 할인",
+       "text": "플러스 할인가 3900원"
+      }
+     ],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000426"
+    },
+    {
+     "key": "tuniverse:PR00000434",
+     "id": "PR00000434",
+     "partner": "T 우주",
+     "name": "T 우주패스 DIY",
+     "desc": "DIY 기본 상품 택 2 + 추가 상품 1~2개 더",
+     "category": null,
+     "tags": [
+      "3개+"
+     ],
+     "price": {
+      "regular": 9900,
+      "sale": 9900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000434"
+    },
+    {
+     "key": "tuniverse:PR00000437",
+     "id": "PR00000437",
+     "partner": "T 우주",
+     "name": "T 우주패스 미디어",
+     "desc": "미디어 기본 상품 중 택 1 + 추가 상품 1개 더",
+     "category": null,
+     "tags": [
+      "2개구성"
+     ],
+     "price": {
+      "regular": 9900,
+      "sale": 9900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000437"
+    },
+    {
+     "key": "tuniverse:PR00000433",
+     "id": "PR00000433",
+     "partner": "에버랜드",
+     "name": "에버랜드 솜포인트 구독",
+     "desc": "에버랜드 8,000솜 포인트 쿠폰, T 우주 전용 에버랜드 이용권 할인 쿠폰",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000433"
+    },
+    {
+     "key": "tuniverse:PR00000429",
+     "id": "PR00000429",
+     "partner": "반올림피자",
+     "name": "반올림피자 쿠폰",
+     "desc": "반올림피자 홈페이지/앱 주문 1만 원 할인",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000429"
+    },
+    {
+     "key": "tuniverse:PR00000500",
+     "id": "PR00000500",
+     "partner": "메가MGC커피",
+     "name": "메가MGC커피 할인",
+     "desc": "메가MGC커피 전 상품 30% 할인",
+     "category": null,
+     "tags": [
+      "플러스 할인"
+     ],
+     "price": {
+      "regular": 9900,
+      "sale": 9900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [
+      {
+       "title": "플러스 할인",
+       "text": "플러스 할인가 4900원"
+      }
+     ],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000500"
+    },
+    {
+     "key": "tuniverse:PR00000412",
+     "id": "PR00000412",
+     "partner": "리디셀렉트",
+     "name": "리디 셀렉트 이용권",
+     "desc": "리디셀렉트 1개월 구독 이용권 20% 할인",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 3900,
+      "sale": 3900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000412"
+    },
+    {
+     "key": "tuniverse:PR00000410",
+     "id": "PR00000410",
+     "partner": "또래오래",
+     "name": "또래오래 쿠폰",
+     "desc": "또래오래앱 10,000원 할인 쿠폰",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000410"
+    },
+    {
+     "key": "tuniverse:PR00000407",
+     "id": "PR00000407",
+     "partner": "커버링",
+     "name": "커버링 쿠폰팩",
+     "desc": "커버링 기본요금 2,500원 무료 쿠폰 4개",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000407"
+    },
+    {
+     "key": "tuniverse:PR00000399",
+     "id": "PR00000399",
+     "partner": "카카오페이지",
+     "name": "카카오페이지 캐시",
+     "desc": "카카오페이지 3,000캐시",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 5500,
+      "sale": 5500,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000399"
+    },
+    {
+     "key": "tuniverse:PR00000372",
+     "id": "PR00000372",
+     "partner": "메가MGC커피",
+     "name": "메가MGC커피 쿠폰팩",
+     "desc": "메가MGC커피 아메리카노(HOT) 2잔 무료 쿠폰",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 5500,
+      "sale": 5500,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000372"
+    },
+    {
+     "key": "tuniverse:PR00000373",
+     "id": "PR00000373",
+     "partner": "배스킨라빈스",
+     "name": "배스킨라빈스 싱글레귤러 교환권",
+     "desc": "싱글레귤러 아이스크림 교환권",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 5500,
+      "sale": 5500,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000373"
+    },
+    {
+     "key": "tuniverse:PR00000374",
+     "id": "PR00000374",
+     "partner": "B tv",
+     "name": "B tv 혜택",
+     "desc": "B tv B캐쉬 5,000P 적립",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 5500,
+      "sale": 5500,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000374"
+    },
+    {
+     "key": "tuniverse:PR00000393",
+     "id": "PR00000393",
+     "partner": "예스24 크레마클럽",
+     "name": "크레마클럽 30일 이용권",
+     "desc": "크레마클럽 30일 이용권 18% 할인",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 4500,
+      "sale": 4500,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000393"
+    },
+    {
+     "key": "tuniverse:PR00000362",
+     "id": "PR00000362",
+     "partner": "HD현대오일뱅크",
+     "name": "HD현대오일뱅크 카앤 혜택팩",
+     "desc": "HD현대오일뱅크 기계세차 쿠폰 1개, 주유 2,000원 쿠폰 2개, 스마트 주유 20원/L 할인, 스피드메이트 제휴 할인 5종",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000362"
+    },
+    {
+     "key": "tuniverse:PR00000363",
+     "id": "PR00000363",
+     "partner": "맘시터",
+     "name": "맘시터 쿠폰팩",
+     "desc": "맘시터 이용권 5,000원 쿠폰, 돌봄비 쿠폰 3개(총 20,000원)",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000363"
+    },
+    {
+     "key": "tuniverse:PR00000445",
+     "id": "PR00000445",
+     "partner": "Wavve",
+     "name": "Wavve 연간 이용권",
+     "desc": "Wavve 연간 이용권 3종 중 택 1",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 94800,
+      "sale": 79000,
+      "unit": "1년",
+      "discountRate": 17,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000445"
+    },
+    {
+     "key": "tuniverse:PR00000338",
+     "id": "PR00000338",
+     "partner": "플라이북",
+     "name": "플라이북 쿠폰",
+     "desc": "플라이북 10,000원 쿠폰",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000338"
+    },
+    {
+     "key": "tuniverse:PR00000339",
+     "id": "PR00000339",
+     "partner": "카모아",
+     "name": "카모아 쿠폰",
+     "desc": "카모아 렌트카 15% 할인 쿠폰",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000339"
+    },
+    {
+     "key": "tuniverse:PR00000325",
+     "id": "PR00000325",
+     "partner": "폴바셋",
+     "name": "폴 바셋 할인",
+     "desc": "폴 바셋 전 상품 30% 할인",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000325"
+    },
+    {
+     "key": "tuniverse:PR00000331",
+     "id": "PR00000331",
+     "partner": "요기요",
+     "name": "요기요 쿠폰팩",
+     "desc": "요기요 4,000원 쿠폰 2개, 2,000원 쿠폰 1개",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000331"
+    },
+    {
+     "key": "tuniverse:PR00000326",
+     "id": "PR00000326",
+     "partner": "그리팅몰",
+     "name": "그리팅몰 쿠폰팩",
+     "desc": "그리팅몰 15,000원 쿠폰, 식단 10,000원 쿠폰, 무료배송 쿠폰",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000326"
+    },
+    {
+     "key": "tuniverse:PR00000323",
+     "id": "PR00000323",
+     "partner": "현대백화점",
+     "name": "현대백화점 혜택팩",
+     "desc": "현대백화점 H.Point 4,000P, 플러스포인트 쿠폰 4개(총 21,000P), Cafe H 무료 커피 쿠폰 1개",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000323"
+    },
+    {
+     "key": "tuniverse:PR00000304",
+     "id": "PR00000304",
+     "partner": "얼라이브",
+     "name": "얼라이브 공식몰 쿠폰팩",
+     "desc": "얼라이브 공식몰 50% 할인 쿠폰, 얼라이브 원스데일리 멀티비타민 30T(정) 3천원 구매 쿠폰",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000304"
+    },
+    {
+     "key": "tuniverse:PR00000298",
+     "id": "PR00000298",
+     "partner": "베베쿡",
+     "name": "베베쿡 쿠폰팩",
+     "desc": "베베쿡 이유식/ 반찬 15,000원 쿠폰, 10,000원 쿠폰 등 총 35,000원 혜택",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000298"
+    },
+    {
+     "key": "tuniverse:PR00000301",
+     "id": "PR00000301",
+     "partner": "국개대표",
+     "name": "국개대표 쿠폰팩",
+     "desc": "국개대표 10,000원 쿠폰, 올바른 끼니 10,000원 쿠폰",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000301"
+    },
+    {
+     "key": "tuniverse:PR00000107",
+     "id": "PR00000107",
+     "partner": "T 우주",
+     "name": "T 우주패스 쇼핑 11번가 연간",
+     "desc": "3,000원 배송비 쿠폰, 쿠폰 2개(총 10,000원), 쇼핑 포인트 41,000P, Google One 100GB + 추가 상품 1~2개 더",
+     "category": null,
+     "tags": [
+      "4개+"
+     ],
+     "price": {
+      "regular": 118000,
+      "sale": 99000,
+      "unit": "1년",
+      "discountRate": 16,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000107"
+    },
+    {
+     "key": "tuniverse:PR00000110",
+     "id": "PR00000110",
+     "partner": "T 우주",
+     "name": "T 우주패스 편의점&카페 연간",
+     "desc": "세븐일레븐/ 투썸플레이스 최대 30% 할인 + 추가 상품 1~2개 더",
+     "category": null,
+     "tags": [
+      "3개+"
+     ],
+     "price": {
+      "regular": 118000,
+      "sale": 99000,
+      "unit": "1년",
+      "discountRate": 16,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000110"
+    },
+    {
+     "key": "tuniverse:PR00000293",
+     "id": "PR00000293",
+     "partner": "아모레퍼시픽",
+     "name": "아모레몰 쿠폰팩",
+     "desc": "아모레몰 럭셔리 브랜드 15% 할인 쿠폰, 10,000원 쿠폰, 5,000원 쿠폰, 무료배송 쿠폰, 특별 사은품 쿠폰",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000293"
+    },
+    {
+     "key": "tuniverse:PR00000109",
+     "id": "PR00000109",
+     "partner": "T 우주",
+     "name": "T 우주패스 편의점&카페",
+     "desc": "세븐일레븐/ 투썸플레이스 최대 30% 할인 + 추가 상품 1~2개 더",
+     "category": null,
+     "tags": [
+      "BEST",
+      "SKT 할인",
+      "3개+"
+     ],
+     "price": {
+      "regular": 9900,
+      "sale": 9900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000109"
+    },
+    {
+     "key": "tuniverse:PR00000486",
+     "id": "PR00000486",
+     "partner": "T 우주",
+     "name": "T 우주패스 편의점&카페 with YouTube Premium",
+     "desc": "세븐일레븐/ 투썸플레이스 최대 30% 할인 + YouTube Premium",
+     "category": null,
+     "tags": [
+      "BEST",
+      "SKT 할인",
+      "3개구성"
+     ],
+     "price": {
+      "regular": 14900,
+      "sale": 14900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000486"
+    },
+    {
+     "key": "tuniverse:PR00000555",
+     "id": "PR00000555",
+     "partner": "T 우주",
+     "name": "T 우주패스 편의점&카페 with 배스킨라빈스 쿠폰",
+     "desc": "세븐일레븐/ 투썸플레이스 최대 30% 할인 + 배스킨라빈스 7,000원 쿠폰",
+     "category": null,
+     "tags": [
+      "BEST",
+      "SKT 할인",
+      "3개구성"
+     ],
+     "price": {
+      "regular": 9900,
+      "sale": 9900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000555"
+    },
+    {
+     "key": "tuniverse:PR00000607",
+     "id": "PR00000607",
+     "partner": "T 우주",
+     "name": "T 우주패스 편의점&카페 with 배달의민족 쿠폰팩",
+     "desc": "세븐일레븐/ 투썸플레이스 최대 30% 할인 + 배달의민족 3,000원 쿠폰 3장",
+     "category": null,
+     "tags": [
+      "3개구성"
+     ],
+     "price": {
+      "regular": 9900,
+      "sale": 9900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000607"
+    },
+    {
+     "key": "tuniverse:PR00000618",
+     "id": "PR00000618",
+     "partner": "T 우주",
+     "name": "T 우주패스 편의점&카페 with 밀리의서재",
+     "desc": "세븐일레븐/ 투썸플레이스 최대 30% 할인 + 밀리의서재 이용권",
+     "category": null,
+     "tags": [
+      "NEW",
+      "3개구성"
+     ],
+     "price": {
+      "regular": 11900,
+      "sale": 11900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000618"
+    },
+    {
+     "key": "tuniverse:PR00000756",
+     "id": "PR00000756",
+     "partner": "T 우주",
+     "name": "T 우주패스 편의점&카페 + Melon 모바일 스트리밍클럽",
+     "desc": "세븐일레븐/ 투썸플레이스 최대 30% 할인 + 멜론 모바일 무제한 듣기",
+     "category": null,
+     "tags": [
+      "NEW",
+      "3개구성"
+     ],
+     "price": {
+      "regular": 9900,
+      "sale": 9900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000756"
+    },
+    {
+     "key": "tuniverse:PR00000847",
+     "id": "PR00000847",
+     "partner": "T 우주",
+     "name": "T 우주패스 편의점&카페 + 교보문고 sam",
+     "desc": "세븐일레븐/ 투썸플레이스 최대 30% 할인 + 교보문고 sam 이용권",
+     "category": null,
+     "tags": [
+      "NEW",
+      "3개구성"
+     ],
+     "price": {
+      "regular": 9900,
+      "sale": 9900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000847"
+    },
+    {
+     "key": "tuniverse:PR00000280",
+     "id": "PR00000280",
+     "partner": "맥널티커피",
+     "name": "맥널티커피 쿠폰팩",
+     "desc": "맥널티커피 50% 할인 쿠폰, 가전/원두 10% 할인 쿠폰",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000280"
+    },
+    {
+     "key": "tuniverse:PR00000274",
+     "id": "PR00000274",
+     "partner": "해피독TV",
+     "name": "해피독TV",
+     "desc": "해피독TV 이용권",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 8360,
+      "sale": 8360,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000274"
+    },
+    {
+     "key": "tuniverse:PR00000252",
+     "id": "PR00000252",
+     "partner": "SK스토아",
+     "name": "SK스토아 쿠폰팩",
+     "desc": "SK스토아 TV쇼핑 20% 할인 쿠폰 2개",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000252"
+    },
+    {
+     "key": "tuniverse:PR00000248",
+     "id": "PR00000248",
+     "partner": "CGV",
+     "name": "CGV 쿠폰팩",
+     "desc": "CGV 영화 3천 원 관람권 1장, 영화 할인권 4장, 콤보 할인권 2장",
+     "category": null,
+     "tags": [
+      "BEST"
+     ],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000248"
+    },
+    {
+     "key": "tuniverse:PR00000243",
+     "id": "PR00000243",
+     "partner": "굽네치킨",
+     "name": "굽네치킨 쿠폰팩",
+     "desc": "굽네치킨 5,000원 쿠폰 2개",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000243"
+    },
+    {
+     "key": "tuniverse:PR00000240",
+     "id": "PR00000240",
+     "partner": "허닭",
+     "name": "허닭 쿠폰팩",
+     "desc": "허닭 7,000원 쿠폰, 5,000원 쿠폰, 무료배송 쿠폰",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000240"
+    },
+    {
+     "key": "tuniverse:PR00000242",
+     "id": "PR00000242",
+     "partner": "청연",
+     "name": "청연 서비스 쿠폰",
+     "desc": "청연 10,000원 쿠폰",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000242"
+    },
+    {
+     "key": "tuniverse:PR00000236",
+     "id": "PR00000236",
+     "partner": "배스킨라빈스",
+     "name": "배스킨라빈스 쿠폰",
+     "desc": "배스킨라빈스 7,000원 쿠폰",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000236"
+    },
+    {
+     "key": "tuniverse:PR00000233",
+     "id": "PR00000233",
+     "partner": "보틀웍스",
+     "name": "보틀웍스 쿠폰팩",
+     "desc": "보틀웍스 10,000원 쿠폰, 5,000원 쿠폰, 정기 구독 15% 할인 쿠폰",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000233"
+    },
+    {
+     "key": "tuniverse:PR00000228",
+     "id": "PR00000228",
+     "partner": "파리바게뜨",
+     "name": "파리바게뜨 1,000원당 300원 할인",
+     "desc": "파리바게뜨 1,000원당 300원 할인",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000228"
+    },
+    {
+     "key": "tuniverse:PR00000104",
+     "id": "PR00000104",
+     "partner": "T 우주",
+     "name": "T 우주패스 쇼핑 11번가",
+     "desc": "3,000원 배송비 쿠폰, 쿠폰 2개(총 10,000원), 쇼핑 포인트 3,000P, Google One 100GB + 추가 상품 1~2개 더",
+     "category": null,
+     "tags": [
+      "BEST",
+      "SKT 할인",
+      "3개+"
+     ],
+     "price": {
+      "regular": 9900,
+      "sale": 9900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000104"
+    },
+    {
+     "key": "tuniverse:PR00000211",
+     "id": "PR00000211",
+     "partner": "원스토리",
+     "name": "원스토리 패스",
+     "desc": "원스토리 무제한 이용권, 원스토리 포인트 2,000P, 전용 데이터 3GB",
+     "category": null,
+     "tags": [
+      "SKT 고객만"
+     ],
+     "price": {
+      "regular": 7900,
+      "sale": 7900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000211"
+    },
+    {
+     "key": "tuniverse:PR00000225",
+     "id": "PR00000225",
+     "partner": "꾸까",
+     "name": "꾸까 쿠폰팩",
+     "desc": "꾸까 15,000원 쿠폰",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7000,
+      "sale": 7000,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000225"
+    },
+    {
+     "key": "tuniverse:PR00000442",
+     "id": "PR00000442",
+     "partner": "FLO",
+     "name": "FLO 이용권",
+     "desc": "FLO 이용권 택1",
+     "category": null,
+     "tags": [
+      "NEW",
+      "SKT 할인"
+     ],
+     "price": {
+      "regular": 7600,
+      "sale": 7600,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [
+      {
+       "title": "플러스 할인",
+       "text": "플러스 할인가 7140원"
+      }
+     ],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000442"
+    },
+    {
+     "key": "tuniverse:PR00000628",
+     "id": "PR00000628",
+     "partner": "FLO",
+     "name": "FLO 이용권",
+     "desc": "FLO 이용권 택1",
+     "category": null,
+     "tags": [
+      "NEW",
+      "플러스 할인"
+     ],
+     "price": {
+      "regular": 7600,
+      "sale": 7600,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [
+      {
+       "title": "플러스 할인",
+       "text": "플러스 할인가 7140원"
+      }
+     ],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000628"
+    },
+    {
+     "key": "tuniverse:PR00000848",
+     "id": "PR00000848",
+     "partner": "T 우주",
+     "name": "T 우주패스 쇼핑 11번가 + 교보문고 sam",
+     "desc": "3,000원 배송비 쿠폰, 쿠폰 2개(총 10,000원), 쇼핑 포인트 3,000P, Google One 100GB + 교보문고 sam 이용권",
+     "category": null,
+     "tags": [
+      "NEW",
+      "3개구성"
+     ],
+     "price": {
+      "regular": 9900,
+      "sale": 9900,
+      "unit": "1개월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [],
+     "url": "https://m.sktuniverse.co.kr/product/detail?prdId=PR00000848"
+    }
+   ],
+   "events": [
+    {
+     "key": "tuniverse:evt84",
+     "title": "T 우주패스 with 티빙 + Melon 스트리밍 라이트",
+     "subtitle": "티빙과 멜론을 부담없이 한 번에!",
+     "period": "2026-11-11~2026-12-10",
+     "end": "2026-12-10",
+     "statusCode": "S04",
+     "url": "https://m.sktuniverse.co.kr/etc/event/detail?evtId=84",
+     "kind": "이벤트"
+    },
+    {
+     "key": "tuniverse:evt83",
+     "title": "T 우주 Multi-OTT 할인 프로모션",
+     "subtitle": "TVING & Wavve에 다른 OTT까지 할인",
+     "period": "2026-11-02~2026-12-31",
+     "end": "2026-12-31",
+     "statusCode": "S04",
+     "url": "https://m.sktuniverse.co.kr/etc/event/detail?evtId=83",
+     "kind": "이벤트"
+    },
+    {
+     "key": "tuniverse:evt82",
+     "title": "T우주 Google AI Plus(400GB) 1+1 프로모션",
+     "subtitle": "첫 달 결제하면 다음 달 무료",
+     "period": "2026-10-19~2026-11-30",
+     "end": "2026-11-30",
+     "statusCode": "S04",
+     "url": "https://m.sktuniverse.co.kr/etc/event/detail?evtId=82",
+     "kind": "이벤트"
+    },
+    {
+     "key": "tuniverse:evt81",
+     "title": "SKT 베스트 요금제 고객만의 특별한 혜택",
+     "subtitle": "AI, OTT, 생활형 상품 혜택 안내",
+     "period": "2026-08-24~2027-01-01",
+     "end": "2027-01-01",
+     "statusCode": "S04",
+     "url": "https://m.sktuniverse.co.kr/etc/event/detail?evtId=81",
+     "kind": "이벤트"
+    },
+    {
+     "key": "tuniverse:evt75",
+     "title": "5GX, 0청년, 다이렉트 요금제 구독 상품",
+     "subtitle": "OTT 구독 상품 가입 안내",
+     "period": "2026-07-09~2100-07-01",
+     "end": "2100-07-01",
+     "statusCode": "S04",
+     "url": "https://m.sktuniverse.co.kr/etc/event/detail?evtId=75",
+     "kind": "이벤트"
+    },
+    {
+     "key": "tuniverse:evt74",
+     "title": "2.0 개편안내",
+     "subtitle": "새로워진 T 우주를 소개합니다.",
+     "period": "2026-07-01~2030-07-01",
+     "end": "2030-07-01",
+     "statusCode": "S04",
+     "url": "https://m.sktuniverse.co.kr/etc/event/detail?evtId=74",
+     "kind": "이벤트"
+    },
+    {
+     "key": "tuniverse:evt15",
+     "title": "앱 전용 무료 상품, T 우주패스 free",
+     "subtitle": "앱에서 누리는 0원의 행복",
+     "period": "2024-11-14~2100-11-27",
+     "end": "2100-11-27",
+     "statusCode": "S04",
+     "url": "https://m.sktuniverse.co.kr/etc/event/detail?evtId=15",
+     "kind": "이벤트"
+    }
+   ]
+  },
+  "ktsub": {
+   "status": "ok",
+   "url": "https://my.kt.com/product/OttSubscribeView.do",
+   "fetchedAt": "2026-11-18T02:23:16.117Z",
+   "products": [
+    {
+     "key": "ktsub:PL2676379",
+     "id": "PL2676379",
+     "partner": "GOOGLE",
+     "name": "Google AI Pro(5TB)+메가MGC커피",
+     "desc": "Google AI+메가MGC커피",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 34100,
+      "sale": 29000,
+      "unit": "월",
+      "discountRate": 15,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "5,100원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1714/web/detail_view/m_ott_pop_google_ai_pro_mgc_coffee.html"
+    },
+    {
+     "key": "ktsub:PL266U306",
+     "id": "PL266U306",
+     "partner": "GOOGLE",
+     "name": "Google AI Plus(2TB)+메가MGC커피",
+     "desc": "Google AI+메가MGC커피",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 13600,
+      "sale": 11900,
+      "unit": "월",
+      "discountRate": 13,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "1,700원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1714/web/detail_view/m_ott_pop_google_ai_pro_mgc_coffee.html"
+    },
+    {
+     "key": "ktsub:PL266U305",
+     "id": "PL266U305",
+     "partner": "GOOGLE",
+     "name": "Google AI Plus(400GB)+메가MGC커피",
+     "desc": "Google AI+메가MGC커피",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 9200,
+      "sale": 7500,
+      "unit": "월",
+      "discountRate": 18,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "1,700원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1714/web/detail_view/m_ott_pop_google_ai_pro_mgc_coffee.html"
+    },
+    {
+     "key": "ktsub:PL2678397",
+     "id": "PL2678397",
+     "partner": "GOOGLE",
+     "name": "Google AI Pro(5TB) 생활구독팩",
+     "desc": "Google AI 생활구독팩",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 33000,
+      "sale": 29000,
+      "unit": "월",
+      "discountRate": 12,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "4,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1713/web/detail_view/m_ott_pop_google_ai_pro_subscribe.html"
+    },
+    {
+     "key": "ktsub:PL2678390",
+     "id": "PL2678390",
+     "partner": "GOOGLE",
+     "name": "Google AI Pro(5TB)+스타벅스",
+     "desc": "Google AI+스타벅스",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 33700,
+      "sale": 29000,
+      "unit": "월",
+      "discountRate": 14,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "4,700원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1715/web/detail_view/m_ott_pop_google_ai_pro_starbucks.html"
+    },
+    {
+     "key": "ktsub:PL2676370",
+     "id": "PL2676370",
+     "partner": "GOOGLE",
+     "name": "Google AI Pro(5TB)",
+     "desc": "Google AI",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 29000,
+      "sale": 27000,
+      "unit": "월",
+      "discountRate": 7,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "2,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1712/web/detail_view/m_ott_pop_google_ai.html"
+    },
+    {
+     "key": "ktsub:PL266U301",
+     "id": "PL266U301",
+     "partner": "GOOGLE",
+     "name": "Google AI Plus(2TB)",
+     "desc": "Google AI",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 11900,
+      "sale": 10900,
+      "unit": "월",
+      "discountRate": 8,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "1,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1712/web/detail_view/m_ott_pop_google_ai.html"
+    },
+    {
+     "key": "ktsub:PL266U302",
+     "id": "PL266U302",
+     "partner": "GOOGLE",
+     "name": "Google AI Plus(400GB)",
+     "desc": "Google AI",
+     "category": null,
+     "tags": [
+      "NEW"
+     ],
+     "price": {
+      "regular": 7500,
+      "sale": 7000,
+      "unit": "월",
+      "discountRate": 7,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "500원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1712/web/detail_view/m_ott_pop_google_ai.html"
+    },
+    {
+     "key": "ktsub:PL25BO725",
+     "id": "PL25BO725",
+     "partner": "YOUTUBE",
+     "name": "유튜브 프리미엄+스타벅스",
+     "desc": "유튜브 프리미엄+스타벅스",
+     "category": null,
+     "tags": [
+      "BEST"
+     ],
+     "price": {
+      "regular": 19600,
+      "sale": 14900,
+      "unit": "월",
+      "discountRate": 24,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "4,700원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1599/web/detail_view/m_ott_pop_youtube_starbucks.html"
+    },
+    {
+     "key": "ktsub:PL25BO728",
+     "id": "PL25BO728",
+     "partner": "YOUTUBE",
+     "name": "유튜브 프리미엄 생활구독팩",
+     "desc": "유튜브 프리미엄 생활구독팩",
+     "category": null,
+     "tags": [
+      "BEST"
+     ],
+     "price": {
+      "regular": 18900,
+      "sale": 14900,
+      "unit": "월",
+      "discountRate": 21,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "4,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1641/web/detail_view/m_ott_pop_youtube_coupon.html"
+    },
+    {
+     "key": "ktsub:PL25BO734",
+     "id": "PL25BO734",
+     "partner": "YOUTUBE",
+     "name": "유튜브 프리미엄+메가MGC커피",
+     "desc": "유튜브 프리미엄+메가MGC커피",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 20000,
+      "sale": 14900,
+      "unit": "월",
+      "discountRate": 26,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "5,100원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1678/web/detail_view/m_ott_pop_youtube_premium_mgc_coffee.html "
+    },
+    {
+     "key": "ktsub:PL25BC664",
+     "id": "PL25BC664",
+     "partner": "YOUTUBE",
+     "name": "유튜브 프리미엄 라이트+메가MGC커피",
+     "desc": "유튜브 프리미엄+메가MGC커피",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 10200,
+      "sale": 8500,
+      "unit": "월",
+      "discountRate": 17,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "1,700원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1678/web/detail_view/m_ott_pop_youtube_premium_mgc_coffee.html"
+    },
+    {
+     "key": "ktsub:PL241N552",
+     "id": "PL241N552",
+     "partner": "TVING",
+     "name": "티빙 베이직+스타벅스",
+     "desc": "티빙+스타벅스",
+     "category": null,
+     "tags": [
+      "BEST"
+     ],
+     "price": {
+      "regular": 14200,
+      "sale": 9500,
+      "unit": "월",
+      "discountRate": 33,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "4,700원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1579/web/detail_view/m_ott_pop_tving_starbucks.html"
+    },
+    {
+     "key": "ktsub:PL241N554",
+     "id": "PL241N554",
+     "partner": "TVING",
+     "name": "티빙 스탠다드+스타벅스",
+     "desc": "티빙+스타벅스",
+     "category": null,
+     "tags": [
+      "BEST"
+     ],
+     "price": {
+      "regular": 18200,
+      "sale": 13500,
+      "unit": "월",
+      "discountRate": 26,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "4,700원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1579/web/detail_view/m_ott_pop_tving_starbucks.html"
+    },
+    {
+     "key": "ktsub:PL258Q203",
+     "id": "PL258Q203",
+     "partner": "TVING",
+     "name": "티빙 베이직+메가MGC커피",
+     "desc": "티빙+메가MGC커피",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 14600,
+      "sale": 9500,
+      "unit": "월",
+      "discountRate": 35,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "5,100원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1665/web/detail_view/m_ott_pop_tving_mgc_coffee.html"
+    },
+    {
+     "key": "ktsub:PL258Q213",
+     "id": "PL258Q213",
+     "partner": "TVING",
+     "name": "티빙 광고형 스탠다드+메가MGC커피",
+     "desc": "티빙+메가MGC커피",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 7200,
+      "sale": 5500,
+      "unit": "월",
+      "discountRate": 24,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "1,700원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1665/web/detail_view/m_ott_pop_tving_mgc_coffee.html"
+    },
+    {
+     "key": "ktsub:PL258Q211",
+     "id": "PL258Q211",
+     "partner": "TVING",
+     "name": "티빙 스탠다드+메가MGC커피",
+     "desc": "티빙+메가MGC커피",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 18600,
+      "sale": 13500,
+      "unit": "월",
+      "discountRate": 27,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "5,100원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1665/web/detail_view/m_ott_pop_tving_mgc_coffee.html"
+    },
+    {
+     "key": "ktsub:PL241N555",
+     "id": "PL241N555",
+     "partner": "TVING",
+     "name": "티빙 프리미엄+스타벅스",
+     "desc": "티빙+스타벅스",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 21700,
+      "sale": 17000,
+      "unit": "월",
+      "discountRate": 22,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "4,700원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1579/web/detail_view/m_ott_pop_tving_starbucks.html"
+    },
+    {
+     "key": "ktsub:PL258Q212",
+     "id": "PL258Q212",
+     "partner": "TVING",
+     "name": "티빙 프리미엄+메가MGC커피",
+     "desc": "티빙+메가MGC커피",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 22100,
+      "sale": 17000,
+      "unit": "월",
+      "discountRate": 23,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "5,100원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1665/web/detail_view/m_ott_pop_tving_mgc_coffee.html"
+    },
+    {
+     "key": "ktsub:PL259Q390",
+     "id": "PL259Q390",
+     "partner": "TVING",
+     "name": "티빙 베이직 생활구독팩",
+     "desc": "티빙 베이직 생활구독팩",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 13500,
+      "sale": 9500,
+      "unit": "월",
+      "discountRate": 30,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "4,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1669/web/detail_view/m_ott_pop_tving_life_subscribe.html"
+    },
+    {
+     "key": "ktsub:PL259Q391",
+     "id": "PL259Q391",
+     "partner": "TVING",
+     "name": "티빙 스탠다드 생활구독팩",
+     "desc": "티빙 스탠다드 생활구독팩",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 17500,
+      "sale": 13500,
+      "unit": "월",
+      "discountRate": 23,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "4,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1669/web/detail_view/m_ott_pop_tving_life_subscribe.html"
+    },
+    {
+     "key": "ktsub:PL259Q392",
+     "id": "PL259Q392",
+     "partner": "TVING",
+     "name": "티빙 프리미엄 생활구독팩",
+     "desc": "티빙 프리미엄 생활구독팩",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 21000,
+      "sale": 17000,
+      "unit": "월",
+      "discountRate": 19,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "4,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1669/web/detail_view/m_ott_pop_tving_life_subscribe.html"
+    },
+    {
+     "key": "ktsub:PL247I491",
+     "id": "PL247I491",
+     "partner": "DISNEY",
+     "name": "디즈니플러스 스탠다드+스타벅스",
+     "desc": "디즈니플러스+스타벅스",
+     "category": null,
+     "tags": [
+      "BEST"
+     ],
+     "price": {
+      "regular": 14600,
+      "sale": 9900,
+      "unit": "월",
+      "discountRate": 32,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "4,700원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1610/web/detail_view/m_ott_pop_disney_starbucks.html"
+    },
+    {
+     "key": "ktsub:PL247I494",
+     "id": "PL247I494",
+     "partner": "DISNEY",
+     "name": "디즈니플러스 프리미엄+스타벅스",
+     "desc": "디즈니플러스+스타벅스",
+     "category": null,
+     "tags": [
+      "BEST"
+     ],
+     "price": {
+      "regular": 18600,
+      "sale": 13900,
+      "unit": "월",
+      "discountRate": 25,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "4,700원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1610/web/detail_view/m_ott_pop_disney_starbucks.html"
+    },
+    {
+     "key": "ktsub:PL259Q400",
+     "id": "PL259Q400",
+     "partner": "DISNEY",
+     "name": "디즈니플러스 스탠다드+메가MGC커피",
+     "desc": "디즈니플러스+메가MGC커피",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 15000,
+      "sale": 9900,
+      "unit": "월",
+      "discountRate": 34,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "5,100원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1668/web/detail_view/m_ott_pop_disney_mgc_coffee.html"
+    },
+    {
+     "key": "ktsub:PL259Q401",
+     "id": "PL259Q401",
+     "partner": "DISNEY",
+     "name": "디즈니플러스 프리미엄+메가MGC커피",
+     "desc": "디즈니플러스+메가MGC커피",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 19000,
+      "sale": 13900,
+      "unit": "월",
+      "discountRate": 27,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "5,100원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1668/web/detail_view/m_ott_pop_disney_mgc_coffee.html"
+    },
+    {
+     "key": "ktsub:PL259T408",
+     "id": "PL259T408",
+     "partner": "DISNEY",
+     "name": "디즈니+ 스탠다드 생활구독팩",
+     "desc": "디즈니+생활구독팩",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 13900,
+      "sale": 9900,
+      "unit": "월",
+      "discountRate": 29,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "4,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1667/web/detail_view/m_ott_pop_disney_life_subscribe.html"
+    },
+    {
+     "key": "ktsub:PL259T411",
+     "id": "PL259T411",
+     "partner": "DISNEY",
+     "name": "디즈니+ 프리미엄 생활구독팩",
+     "desc": "디즈니+생활구독팩",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 17900,
+      "sale": 13900,
+      "unit": "월",
+      "discountRate": 22,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "4,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1667/web/detail_view/m_ott_pop_disney_life_subscribe.html"
+    },
+    {
+     "key": "ktsub:NETFLIXPI",
+     "id": "NETFLIXPI",
+     "partner": "NETFLIX",
+     "name": "넷플릭스",
+     "desc": "넷플릭스",
+     "category": null,
+     "tags": [
+      "BEST"
+     ],
+     "price": {
+      "regular": null,
+      "sale": 7000,
+      "unit": "월",
+      "discountRate": 0,
+      "from": true
+     },
+     "promotions": [
+      {
+       "title": "500원~1,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1582/web/detail_view/m_ott_pop_netflix.html"
+    },
+    {
+     "key": "ktsub:PL25BO723",
+     "id": "PL25BO723",
+     "partner": "YOUTUBE",
+     "name": "유튜브 프리미엄",
+     "desc": "유튜브 프리미엄",
+     "category": null,
+     "tags": [
+      "BEST"
+     ],
+     "price": {
+      "regular": 14900,
+      "sale": 13900,
+      "unit": "월",
+      "discountRate": 7,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "1,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1581/web/detail_view/m_ott_pop_youtube.html"
+    },
+    {
+     "key": "ktsub:PL25BC661",
+     "id": "PL25BC661",
+     "partner": "YOUTUBE",
+     "name": "유튜브 프리미엄 라이트",
+     "desc": "유튜브 프리미엄",
+     "category": null,
+     "tags": [
+      "BEST"
+     ],
+     "price": {
+      "regular": 8500,
+      "sale": 8000,
+      "unit": "월",
+      "discountRate": 6,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "500원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1581/web/detail_view/m_ott_pop_youtube.html"
+    },
+    {
+     "key": "ktsub:PL2434769",
+     "id": "PL2434769",
+     "partner": "TVING",
+     "name": "TVING 광고형 스탠다드",
+     "desc": "TVING",
+     "category": null,
+     "tags": [
+      "BEST"
+     ],
+     "price": {
+      "regular": 5500,
+      "sale": 5000,
+      "unit": "월",
+      "discountRate": 9,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "500원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1580/web/detail_view/m_ott_pop_tving.html"
+    },
+    {
+     "key": "ktsub:PL239B661",
+     "id": "PL239B661",
+     "partner": "TVING",
+     "name": "TVING 베이직",
+     "desc": "TVING",
+     "category": null,
+     "tags": [
+      "BEST"
+     ],
+     "price": {
+      "regular": 9500,
+      "sale": 8500,
+      "unit": "월",
+      "discountRate": 11,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "1,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1580/web/detail_view/m_ott_pop_tving.html"
+    },
+    {
+     "key": "ktsub:PL239B667",
+     "id": "PL239B667",
+     "partner": "TVING",
+     "name": "TVING 스탠다드",
+     "desc": "TVING",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 13500,
+      "sale": 12500,
+      "unit": "월",
+      "discountRate": 7,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "1,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1580/web/detail_view/m_ott_pop_tving.html"
+    },
+    {
+     "key": "ktsub:PL239B666",
+     "id": "PL239B666",
+     "partner": "TVING",
+     "name": "TVING 프리미엄",
+     "desc": "TVING",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 17000,
+      "sale": 16000,
+      "unit": "월",
+      "discountRate": 6,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "1,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1580/web/detail_view/m_ott_pop_tving.html"
+    },
+    {
+     "key": "ktsub:PL269M798",
+     "id": "PL269M798",
+     "partner": "DISNEY",
+     "name": "디즈니+ 스탠다드",
+     "desc": "디즈니+",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": null,
+      "sale": 11500,
+      "unit": "월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "1,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1583/web/detail_view/m_ott_pop_disney.html"
+    },
+    {
+     "key": "ktsub:PL269M800",
+     "id": "PL269M800",
+     "partner": "DISNEY",
+     "name": "디즈니+ 프리미엄",
+     "desc": "디즈니+",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": null,
+      "sale": 16500,
+      "unit": "월",
+      "discountRate": 0,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "1,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1583/web/detail_view/m_ott_pop_disney.html"
+    },
+    {
+     "key": "ktsub:PL22A4201",
+     "id": "PL22A4201",
+     "partner": "GENIE",
+     "name": "지니 스마트 음악감상",
+     "desc": "지니 스마트 음악감상",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 8140,
+      "sale": 6140,
+      "unit": "월",
+      "discountRate": 25,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "2,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1584/web/detail_view/m_ott_pop_genie.html"
+    },
+    {
+     "key": "ktsub:PL2559601",
+     "id": "PL2559601",
+     "partner": "MILLI",
+     "name": "밀리의서재",
+     "desc": "밀리의서재",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 11900,
+      "sale": 9900,
+      "unit": "월",
+      "discountRate": 17,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "2,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1585/web/detail_view/m_ott_pop_millie_new.html"
+    },
+    {
+     "key": "ktsub:PL24B5953",
+     "id": "PL24B5953",
+     "partner": "QANDA",
+     "name": "콴다 프리미엄 Lite",
+     "desc": "콴다",
+     "category": null,
+     "tags": [
+      "KT Only"
+     ],
+     "price": {
+      "regular": 11000,
+      "sale": 9000,
+      "unit": "월",
+      "discountRate": 18,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "2,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1629/web/detail_view/m_ott_pop_qanda.html"
+    },
+    {
+     "key": "ktsub:PL24B5952",
+     "id": "PL24B5952",
+     "partner": "QANDA",
+     "name": "콴다 프리미엄",
+     "desc": "콴다",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 18500,
+      "sale": 16500,
+      "unit": "월",
+      "discountRate": 11,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "2,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1629/web/detail_view/m_ott_pop_qanda.html"
+    },
+    {
+     "key": "ktsub:PL24AU912",
+     "id": "PL24AU912",
+     "partner": "MOAZN",
+     "name": "모아진(국내해외매거진무제한)",
+     "desc": "모아진",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 15000,
+      "sale": 13000,
+      "unit": "월",
+      "discountRate": 13,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "2,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1615/web/detail_view/m_ott_pop_moajin.html"
+    },
+    {
+     "key": "ktsub:PL24AU909",
+     "id": "PL24AU909",
+     "partner": "MOAZN",
+     "name": "모아진(국내매거진무제한)",
+     "desc": "모아진",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 9000,
+      "sale": 7000,
+      "unit": "월",
+      "discountRate": 22,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "2,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1615/web/detail_view/m_ott_pop_moajin.html"
+    },
+    {
+     "key": "ktsub:PL24AU907",
+     "id": "PL24AU907",
+     "partner": "MOAZN",
+     "name": "모아진(매거진5종)",
+     "desc": "모아진",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 5000,
+      "sale": 4000,
+      "unit": "월",
+      "discountRate": 20,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "1,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1615/web/detail_view/m_ott_pop_moajin.html"
+    },
+    {
+     "key": "ktsub:PL254G426",
+     "id": "PL254G426",
+     "partner": "DEEPL",
+     "name": "딥엘 인디비주얼",
+     "desc": "딥엘",
+     "category": null,
+     "tags": [],
+     "price": {
+      "regular": 11900,
+      "sale": 9900,
+      "unit": "월",
+      "discountRate": 17,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "2,000원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1662/web/detail_view/m_ott_pop_deepL.html"
+    },
+    {
+     "key": "ktsub:PL256P819",
+     "id": "PL256P819",
+     "partner": "TTCARE",
+     "name": "티티케어 프리미엄",
+     "desc": "티티케어",
+     "category": null,
+     "tags": [
+      "KT Only"
+     ],
+     "price": {
+      "regular": 29700,
+      "sale": 14850,
+      "unit": "월",
+      "discountRate": 50,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "14,850원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1661/web/detail_view/m_ott_pop_ttcare.html"
+    },
+    {
+     "key": "ktsub:PL256P820",
+     "id": "PL256P820",
+     "partner": "TTCARE",
+     "name": "티티케어 스탠다드",
+     "desc": "티티케어",
+     "category": null,
+     "tags": [
+      "KT Only"
+     ],
+     "price": {
+      "regular": 19800,
+      "sale": 9900,
+      "unit": "월",
+      "discountRate": 50,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "9,900원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1661/web/detail_view/m_ott_pop_ttcare.html"
+    },
+    {
+     "key": "ktsub:PL256P821",
+     "id": "PL256P821",
+     "partner": "TTCARE",
+     "name": "티티케어 라이트",
+     "desc": "티티케어",
+     "category": null,
+     "tags": [
+      "KT Only"
+     ],
+     "price": {
+      "regular": 9900,
+      "sale": 4950,
+      "unit": "월",
+      "discountRate": 50,
+      "from": false
+     },
+     "promotions": [
+      {
+       "title": "4,950원 할인",
+       "text": null
+      }
+     ],
+     "url": "https://product.kt.com/static/prodetail/1661/web/detail_view/m_ott_pop_ttcare.html"
+    }
+   ],
+   "events": [],
+   "note": "KT 이벤트 출처 미정 (이벤트 비교 안 함)"
+  }
+ }
+}

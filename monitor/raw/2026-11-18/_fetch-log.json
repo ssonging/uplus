@@ -1,0 +1,80 @@
+[
+ {
+  "target": "udok",
+  "url": "https://www.lguplus.com/pogg/main",
+  "slug": "udok",
+  "fetchedAt": "2026-11-18T02:13:28.906Z",
+  "ok": true,
+  "title": "OTT부터 쇼핑, 교육까지! 나만의 구독 서비스 유독 | LG U+ 유독",
+  "finalUrl": "https://www.lguplus.com/pogg/main",
+  "textLength": 1434,
+  "wonCount": 20,
+  "linkCount": 5,
+  "xhrCount": 21
+ },
+ {
+  "target": "udok-all",
+  "url": "https://www.lguplus.com/pogg/category/%EC%A0%84%EC%B2%B4",
+  "slug": "udok-all",
+  "fetchedAt": "2026-11-18T02:18:38.025Z",
+  "ok": true,
+  "title": "전체 상품 | LG U+ 유독 | LG U+",
+  "finalUrl": "https://www.lguplus.com/pogg/category/%EC%A0%84%EC%B2%B4",
+  "textLength": 3498,
+  "wonCount": 90,
+  "linkCount": 5,
+  "xhrCount": 13
+ },
+ {
+  "target": "tuniverse",
+  "url": "https://m.sktuniverse.co.kr/",
+  "slug": "tuniverse",
+  "fetchedAt": "2026-11-18T02:19:27.102Z",
+  "ok": true,
+  "title": "T 우주 | 홈",
+  "finalUrl": "https://m.sktuniverse.co.kr/",
+  "textLength": 2066,
+  "wonCount": 29,
+  "linkCount": 41,
+  "xhrCount": 10
+ },
+ {
+  "target": "tuniverse-all",
+  "url": "https://m.sktuniverse.co.kr/category/sub/tab/detail?ctanId=CC00000012&ctgId=CA00000001",
+  "slug": "tuniverse-all",
+  "fetchedAt": "2026-11-18T02:21:30.166Z",
+  "ok": true,
+  "title": "T 우주 | 카테고리",
+  "finalUrl": "https://m.sktuniverse.co.kr/category/sub/tab/detail?ctanId=CC00000012&ctgId=CA00000001",
+  "textLength": 10698,
+  "wonCount": 260,
+  "linkCount": 157,
+  "xhrCount": 32
+ },
+ {
+  "target": "tuniverse-event",
+  "url": "https://m.sktuniverse.co.kr/etc/event",
+  "slug": "tuniverse-event",
+  "fetchedAt": "2026-11-18T02:22:35.935Z",
+  "ok": true,
+  "title": "T 우주 | 이벤트",
+  "finalUrl": "https://m.sktuniverse.co.kr/etc/event",
+  "textLength": 40,
+  "wonCount": 0,
+  "linkCount": 0,
+  "xhrCount": 7
+ },
+ {
+  "target": "ktsub",
+  "url": "https://my.kt.com/product/OttSubscribeView.do",
+  "slug": "ktsub",
+  "fetchedAt": "2026-11-18T02:23:16.117Z",
+  "ok": true,
+  "title": "KT 구독 | KT",
+  "finalUrl": "https://my.kt.com/product/OttSubscribeView.do",
+  "textLength": 2176,
+  "wonCount": 47,
+  "linkCount": 454,
+  "xhrCount": 10
+ }
+]
