@@ -3,7 +3,7 @@
   "tokens": { "generated": true },
   "screens": {
     "list": { "stage": "approved", "attempts": 1 },
-    "detail": { "stage": "spec", "attempts": 0 },
+    "detail": { "stage": "build", "attempts": 1 },
     "apply": { "stage": "todo", "attempts": 0 },
     "complete": { "stage": "todo", "attempts": 0 }
   },
