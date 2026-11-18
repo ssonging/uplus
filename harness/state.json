@@ -1,5 +1,6 @@
 {
-  "current": "complete",
+  "current": null,
+  "final": { "judgeAll": "passed", "at": "2026-11-18" },
   "tokens": { "generated": true },
   "screens": {
     "list": { "stage": "approved", "attempts": 1 },
