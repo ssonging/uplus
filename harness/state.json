@@ -1,8 +1,8 @@
 {
-  "current": null,
-  "tokens": { "generated": false },
+  "current": "list",
+  "tokens": { "generated": true },
   "screens": {
-    "list": { "stage": "todo", "attempts": 0 },
+    "list": { "stage": "spec", "attempts": 0 },
     "detail": { "stage": "todo", "attempts": 0 },
     "apply": { "stage": "todo", "attempts": 0 },
     "complete": { "stage": "todo", "attempts": 0 }
