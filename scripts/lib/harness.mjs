@@ -205,9 +205,9 @@ function classRules(allowed) {
     },
     {
       id: "T5",
-      name: "토큰 밖 선 두께(border-2 등). 1px은 border, 1.5px은 border-selected",
+      name: "토큰 밖 선 두께(border-2 등). 1px은 border, 1.5px은 border-selected, 지우기는 -0",
       re: new RegExp(`${B}(?:border|ring|outline|divide)(?:-[trblxyse])?-(\\d+(?:\\.\\d+)?)${E}`, "g"),
-      bad: () => true,
+      bad: (m) => m[1] !== "0", // 두께 0(선 지우기)만 허용 — 사용자 결정 2026-11-18
     },
     {
       id: "T5",

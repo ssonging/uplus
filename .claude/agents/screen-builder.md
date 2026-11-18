@@ -23,7 +23,7 @@ tools: Read, Glob, Grep, Write, Edit
   - 간격: `p-16`, `gap-24`, `h-56` (숫자 = px = spacing 토큰)
   - 모서리: `rounded-16`, `rounded-full`
   - 글자: `text-body`, `text-heading-h4`, `font-semibold`
-  - 선: 1px은 `border`, 선택 상태 1.5px은 `border-selected`
+  - 선: 1px은 `border`, 선택 상태 1.5px은 `border-selected`, 한 변만 남길 때는 나머지를 `border-t-0`·`border-x-0`처럼 0으로 지운다(두께는 0만 허용)
   - 사용자 승인 예외(`harness/exceptions.json`): `h-button-xl`(52) · `h-input`(58) · `border-selected`(1.5) · `h-tag`(26). 이름 그대로만 쓴다.
 - 금지: `width={24}` 같은 숫자 크기 속성(아이콘도 `className="h-24 w-24"`), `` `p-${n}` `` 같은 조합 클래스(조건부는 완성된 클래스 이름 두 개 중 고르기), `border-2` 같은 선 두께 숫자, `#` 색상값, `rgb()`·`hsl()`·`oklch()`, `p-[13px]` 같은 대괄호 값, `style={{...}}`, 허용 목록 밖 숫자 클래스(`p-13`), Tailwind 기본 팔레트·크기 이름(`bg-pink-500`, `text-sm`, `rounded-lg`), CSS 파일의 `px` 숫자.
 - **토큰에 없는 값이 필요하면 만들지 말고 멈춘다.** 무엇이 왜 필요한지 보고한다. 가까운 토큰으로 몰래 바꾸지도 않는다.
