@@ -24,9 +24,8 @@ $script:FontNarrow   = 'Arial Narrow'
 
 $script:C = @{
   Pink      = '#FF3399'
-  DeepPink  = '#FF2C97'
   Blue      = '#0000FF'
-  Green     = '#1C771C'
+  Note      = '#00B050'   # all small text: footnotes, reference notes, captions, milestones
   BoxGray   = '#F2F2F2'
   LineGray  = '#D9D9D9'
   DarkGray  = '#7F7F7F'
@@ -118,10 +117,10 @@ function Add-UplusBody($Slide, [string]$Text, [double]$Left = 65, [double]$Top =
   return Add-UplusText -Slide $Slide -Text $Text -Left $Left -Top $Top -Width $Width -Height 24 -Size $Size -LineSpacing 1.3
 }
 
-# Footnote ("* ...") or reference (reference-mark prefix, green) in 10 pt.
+# Footnote ("* ...") or reference note (reference-mark prefix) in 10 pt, both in the note green (#00B050).
+# -Reference is kept for compatibility; it no longer changes the colour.
 function Add-UplusNote($Slide, [string]$Text, [double]$Left, [double]$Top, [double]$Width = 400, [switch]$Reference) {
-  $color = if ($Reference) { $script:C.Green } else { $script:C.Black }
-  return Add-UplusText -Slide $Slide -Text $Text -Left $Left -Top $Top -Width $Width -Height 14 -Size 10 -Color $color
+  return Add-UplusText -Slide $Slide -Text $Text -Left $Left -Top $Top -Width $Width -Height 14 -Size 10 -Color $script:C.Note
 }
 
 # "[Table name]" label above a table, optional unit text ("VAT ...") right-aligned to the table edge.
