@@ -40,6 +40,22 @@ export type DataUsage = {
   usedLastMonth: number;
 };
 
+/** 약정 유형 */
+export type ContractType = "공시지원금" | "선택약정";
+
+/** 약정 정보 (DOMAIN 6장, 0..1) */
+export type Contract = {
+  type: ContractType;
+  /** 지원금 금액(원) */
+  subsidy: number;
+  /** 전체 약정 기간(개월) */
+  totalMonths: number;
+  /** 남은 약정 기간(개월) */
+  remainingMonths: number;
+  /** 기준 금액(원, 월 요금 기준, BR5) */
+  baseAmount: number;
+};
+
 /** 요금제 목록 (예시) */
 export const plans: Plan[] = [
   { id: "lite", name: "5G 라이트", monthlyFee: 39000, dataAmount: 8, bundledSubscriptions: [] },
@@ -51,6 +67,15 @@ export const plans: Plan[] = [
 
 /** 지금 쓰는 요금제 (예시) */
 export const currentPlanId: string = "standard";
+
+/** 약정 정보 (예시). 약정이 없으면 null. */
+export const contract: Contract | null = {
+  type: "공시지원금",
+  subsidy: 300000,
+  totalMonths: 6,
+  remainingMonths: 3,
+  baseAmount: 55000,
+};
 
 /** 데이터 사용량 (예시) */
 export const dataUsage: DataUsage = {

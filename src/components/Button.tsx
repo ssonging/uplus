@@ -14,12 +14,14 @@ type ButtonProps = {
   href?: string;
   /** 판정 스크립트가 찾는 신청 버튼 표시(BR10). 신청 버튼에만 'apply'. */
   cta?: "apply";
+  /** href 대신 누를 때 할 일(State=Default일 때만, 클라이언트 컴포넌트 안에서) */
+  onClick?: () => void;
   children: ReactNode;
 };
 
 const BASE = "inline-flex shrink-0 items-center justify-center rounded-8";
 
-export default function Button({ type, size, state = "Default", href, cta, children }: ButtonProps) {
+export default function Button({ type, size, state = "Default", href, cta, onClick, children }: ButtonProps) {
   const sizeClass = size === "xl" ? "h-button-xl w-full px-24" : "px-24 py-8";
   let lookClass = "border border-border-default bg-surface-default text-body font-regular text-text-primary";
   if (type === "Primary") {
@@ -32,7 +34,13 @@ export default function Button({ type, size, state = "Default", href, cta, child
 
   if (state === "Disabled" || !href) {
     return (
-      <button type="button" disabled={state === "Disabled"} data-cta={cta} className={className}>
+      <button
+        type="button"
+        disabled={state === "Disabled"}
+        onClick={state === "Disabled" ? undefined : onClick}
+        data-cta={cta}
+        className={className}
+      >
         {children}
       </button>
     );

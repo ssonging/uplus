@@ -1,11 +1,11 @@
 {
-  "current": "apply",
+  "current": "complete",
   "tokens": { "generated": true },
   "screens": {
     "list": { "stage": "approved", "attempts": 1 },
     "detail": { "stage": "approved", "attempts": 1 },
-    "apply": { "stage": "build", "attempts": 1 },
-    "complete": { "stage": "todo", "attempts": 0 }
+    "apply": { "stage": "approved", "attempts": 1 },
+    "complete": { "stage": "spec", "attempts": 0 }
   },
   "stages": ["todo", "spec", "tokens", "build", "judge", "review", "approved"]
 }
