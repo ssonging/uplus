@@ -1,0 +1,11 @@
+{
+  "current": null,
+  "tokens": { "generated": false },
+  "screens": {
+    "list": { "stage": "todo", "attempts": 0 },
+    "detail": { "stage": "todo", "attempts": 0 },
+    "apply": { "stage": "todo", "attempts": 0 },
+    "complete": { "stage": "todo", "attempts": 0 }
+  },
+  "stages": ["todo", "spec", "tokens", "build", "judge", "review", "approved"]
+}
