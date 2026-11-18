@@ -28,13 +28,27 @@ function diffText(diff: number) {
 
 const LIST_HREF = "/plans";
 
+/** DB에서 읽은 신청(신청자 정보는 담지 않는다) */
+export type SavedApplication = {
+  applicationNumber: string;
+  /** 'M월 D일 HH:mm' (Asia/Seoul) */
+  appliedAt: string;
+  planName: string;
+  monthlyFee: number;
+  selectedSubs: SubscriptionId[];
+  /** 새 요금제 전체 금액 - 지금 요금제 + 구독료 */
+  feeDifference: number;
+};
+
 type PlanCompleteProps = {
   plan: Plan;
   /** 쿼리 subs로 받은 고른 구독 서비스(모르는 id·중복 제거, 예시 줄 순서) */
   selectedSubs: SubscriptionId[];
+  /** 쿼리 app으로 읽은 저장된 신청. 없으면 예시 값(applicationResult)과 화면 계산을 쓴다. */
+  saved?: SavedApplication | null;
 };
 
-export default function PlanComplete({ plan, selectedSubs }: PlanCompleteProps) {
+export default function PlanComplete({ plan, selectedSubs, saved = null }: PlanCompleteProps) {
   const isCurrent = plan.id === currentPlanId;
   const currentPlan = plans.find((p) => p.id === currentPlanId) ?? plan;
 
@@ -42,7 +56,14 @@ export default function PlanComplete({ plan, selectedSubs }: PlanCompleteProps) 
   const currentTotal = currentPlan.monthlyFee + feeOf(selectedSubs);
   const unbundled = selectedSubs.filter((id) => !plan.bundledSubscriptions.includes(id));
   const newTotal = plan.monthlyFee + feeOf(unbundled);
-  const selectedNames = namesOf(selectedSubs);
+
+  // 저장된 신청이 있으면 그 값을, 없으면 예시 값을 보인다.
+  const applicationNumber = saved ? saved.applicationNumber : applicationResult.applicationNumber;
+  const appliedAt = saved ? saved.appliedAt : applicationResult.appliedAt;
+  const planName = saved ? saved.planName : plan.name;
+  const monthlyFee = saved ? saved.monthlyFee : plan.monthlyFee;
+  const difference = saved ? saved.feeDifference : newTotal - currentTotal;
+  const selectedNames = namesOf(saved ? saved.selectedSubs : selectedSubs);
 
   return (
     <div className="flex h-full flex-col bg-bg-default">
@@ -74,16 +95,16 @@ export default function PlanComplete({ plan, selectedSubs }: PlanCompleteProps) 
               <section className="flex flex-col gap-12">
                 <h2 className="text-heading-h4 font-bold text-text-primary">신청 내역</h2>
                 <div className="flex flex-col gap-0 divide-y divide-border-subtle rounded-0 bg-bg-subtle p-12">
-                  <ListRow type="default" label="신청 번호" value={applicationResult.applicationNumber} />
-                  <ListRow type="default" label="요금제" value={plan.name} />
-                  <ListRow type="default" label="월 요금" value={monthly(plan.monthlyFee)} />
+                  <ListRow type="default" label="신청 번호" value={applicationNumber} />
+                  <ListRow type="default" label="요금제" value={planName} />
+                  <ListRow type="default" label="월 요금" value={monthly(monthlyFee)} />
                   <ListRow
                     type="default"
                     label="고른 구독 서비스"
                     value={selectedNames.length ? selectedNames.join(", ") : "없음"}
                   />
-                  <ListRow type="default" label="차이" value={diffText(newTotal - currentTotal)} />
-                  <ListRow type="default" label="신청 일시" value={applicationResult.appliedAt} />
+                  <ListRow type="default" label="차이" value={diffText(difference)} />
+                  <ListRow type="default" label="신청 일시" value={appliedAt} />
                 </div>
               </section>
             </>

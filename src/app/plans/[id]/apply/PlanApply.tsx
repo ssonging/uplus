@@ -1,7 +1,6 @@
 "use client";
 
-import { useRouter } from "next/navigation";
-import { useRef, useState, type ReactNode, type Ref } from "react";
+import { useRef, useState, useTransition, type ReactNode, type Ref } from "react";
 import BottomCTA from "@/components/BottomCTA";
 import Button from "@/components/Button";
 import Checkbox from "@/components/Checkbox";
@@ -9,6 +8,7 @@ import Header from "@/components/Header";
 import Input, { type InputState } from "@/components/Input";
 import ListRow from "@/components/ListRow";
 import { contract, currentPlanId, plans, subscriptions, type Plan, type SubscriptionId } from "@/data/example";
+import { submitApplication } from "./actions";
 
 const won = (n: number) => `${n.toLocaleString("ko-KR")}원`;
 const monthly = (n: number) => `월 ${won(n)}`;
@@ -45,6 +45,7 @@ const NO_ERRORS: Record<FieldKey, boolean> = { name: false, phone: false, email:
 
 const REQUIRED_INPUT = "필수 입력 정보입니다.";
 const REQUIRED_AGREE = "필수 동의 항목입니다.";
+const SAVE_FAILED = "신청을 저장하지 못했어요. 잠시 후 다시 시도해 주세요.";
 
 function SectionTitle({ children }: { children: string }) {
   return <h2 className="text-heading-h4 font-bold text-text-primary">{children}</h2>;
@@ -104,7 +105,8 @@ type PlanApplyProps = {
 };
 
 export default function PlanApply({ plan, selectedSubs }: PlanApplyProps) {
-  const router = useRouter();
+  const [saving, startSaving] = useTransition();
+  const [saveError, setSaveError] = useState(false);
 
   const isCurrent = plan.id === currentPlanId;
   const currentPlan = plans.find((p) => p.id === currentPlanId) ?? plan;
@@ -129,7 +131,6 @@ export default function PlanApply({ plan, selectedSubs }: PlanApplyProps) {
   const query = selectedSubs.length ? `?subs=${selectedSubs.join(",")}` : "";
   const planPath = `/plans/${encodeURIComponent(plan.id)}`;
   const backHref = planPath + query;
-  const completeHref = planPath + "/complete" + query;
 
   const [values, setValues] = useState<Record<FieldKey, string>>(EMPTY_VALUES);
   const [errors, setErrors] = useState<Record<FieldKey, boolean>>(NO_ERRORS);
@@ -172,7 +173,8 @@ export default function PlanApply({ plan, selectedSubs }: PlanApplyProps) {
   };
 
   const submit = () => {
-    if (isCurrent) return;
+    if (isCurrent || saving) return;
+    setSaveError(false);
     const nextErrors = { ...NO_ERRORS };
     for (const f of FIELDS) nextErrors[f.key] = values[f.key].trim() === "";
     const nextRefundError = showRefund && !refundAgreed;
@@ -196,7 +198,24 @@ export default function PlanApply({ plan, selectedSubs }: PlanApplyProps) {
       termsRef.current?.focus();
       return;
     }
-    router.push(completeHref);
+    // 검증 통과: 서버에 저장. 금액은 보내지 않는다(서버가 다시 계산). 성공하면 서버가 완료 화면으로 보낸다.
+    startSaving(async () => {
+      try {
+        const result = await submitApplication({
+          id: plan.id,
+          subs: selectedSubs,
+          name: values.name,
+          phone: values.phone,
+          email: values.email,
+          address: values.address,
+          termsAgreed,
+          refundAgreed: showRefund && refundAgreed,
+        });
+        if (result && result.ok === false) setSaveError(true);
+      } catch {
+        setSaveError(true);
+      }
+    });
   };
 
   return (
@@ -322,6 +341,13 @@ export default function PlanApply({ plan, selectedSubs }: PlanApplyProps) {
           </section>
         </div>
       </main>
+
+      {/* 저장 실패 안내(사용자 요청 범위): 신청 버튼 바로 위 한 줄. 기본 상태에는 그리지 않는다. */}
+      {saveError ? (
+        <p role="alert" className="shrink-0 bg-bg-default px-16 py-8 text-body-small font-medium text-text-error">
+          {SAVE_FAILED}
+        </p>
+      ) : null}
 
       <BottomCTA
         layout="double"
