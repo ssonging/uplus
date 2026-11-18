@@ -93,6 +93,20 @@ export const subscriptions: Subscription[] = [
   { id: "tving", name: "티빙", representativeFee: 13900 },
 ];
 
+/** 신청 결과 (예시). 저장소가 없어 모든 신청에 같은 값을 보인다. 신청자 정보는 두지 않는다. */
+export type ApplicationResult = {
+  /** 신청 번호 */
+  applicationNumber: string;
+  /** 신청 일시(표시용 'M월 D일 HH:mm') */
+  appliedAt: string;
+};
+
+/** 신청 결과 (예시) */
+export const applicationResult: ApplicationResult = {
+  applicationNumber: "2026-1118-0001",
+  appliedAt: "11월 18일 14:02",
+};
+
 /** 데이터 양 필터 기준값 (예시). 첫 항목 '전체'가 기본 선택. */
 export const filters: DataFilter[] = [
   { id: "all", label: "전체", minData: null },

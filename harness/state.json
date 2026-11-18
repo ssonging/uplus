@@ -5,7 +5,7 @@
     "list": { "stage": "approved", "attempts": 1 },
     "detail": { "stage": "approved", "attempts": 1 },
     "apply": { "stage": "approved", "attempts": 1 },
-    "complete": { "stage": "build", "attempts": 1 }
+    "complete": { "stage": "approved", "attempts": 1 }
   },
   "stages": ["todo", "spec", "tokens", "build", "judge", "review", "approved"]
 }
