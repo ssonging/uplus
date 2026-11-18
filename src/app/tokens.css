@@ -105,3 +105,4 @@
 @utility h-input { height: 58px; } /* Input 필드 */
 @utility border-selected { border-width: 1.5px; } /* Card/Plan · OptionItem State=selected 외곽선 */
 @utility h-tag { height: 26px; } /* Tag */
+@utility max-w-mobile { max-width: 390px; } /* 화면 틀(Header·본문·BottomCTA) 최대 폭 — 넓은 화면에서 모바일 폭 유지 */

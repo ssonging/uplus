@@ -29,6 +29,13 @@
       "px": 26,
       "for": "Tag",
       "source": "docs/design.md.txt 4장: Tag 원본 48×26"
+    },
+    {
+      "class": "max-w-mobile",
+      "property": "max-width",
+      "px": 390,
+      "for": "화면 틀(Header·본문·BottomCTA) 최대 폭 — 넓은 화면에서 모바일 폭 유지",
+      "source": "docs/design.md.txt 3장: 화면 390×844 (사용자 승인 2026-11-18)"
     }
   ]
 }

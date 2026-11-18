@@ -8,6 +8,6 @@
   }
 
   body {
-    @apply bg-bg-default font-sans text-text-primary antialiased;
+    @apply bg-bg-subtle font-sans text-text-primary antialiased;
   }
 }

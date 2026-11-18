@@ -44,7 +44,7 @@ export function buildTheme() {
   const exceptionsText = existsSync(abs(EXCEPTIONS_FILE)) ? read(EXCEPTIONS_FILE) : '{"items":[]}';
   const tokens = JSON.parse(tokensText);
   const exceptions = JSON.parse(exceptionsText).items || [];
-  const EXC_PROPS = ["height", "min-height", "width", "min-width", "border-width"];
+  const EXC_PROPS = ["height", "min-height", "width", "min-width", "max-width", "border-width"];
   for (const x of exceptions) {
     if (!/^[a-z][a-z0-9-]*$/.test(x.class || "")) throw new Error(`${EXCEPTIONS_FILE}: 클래스 이름이 잘못됨 ${x.class}`);
     if (!EXC_PROPS.includes(x.property)) throw new Error(`${EXCEPTIONS_FILE}: ${x.class}의 속성 ${x.property}는 허용되지 않음`);

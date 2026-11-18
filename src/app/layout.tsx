@@ -16,7 +16,10 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="ko">
-      <body className={`${notoSansKr.variable} font-sans`}>{children}</body>
+      <body className={`${notoSansKr.variable} font-sans`}>
+        {/* 화면 틀: 넓은 화면에서도 모바일 폭(390)으로 고정. 틀 밖은 body의 bg-bg-subtle */}
+        <div className="mx-auto h-full w-full max-w-mobile bg-bg-default">{children}</div>
+      </body>
     </html>
   );
 }

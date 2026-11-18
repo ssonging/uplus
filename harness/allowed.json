@@ -1,12 +1,13 @@
 {
   "note": "생성 파일 — 손으로 고치지 않는다. node scripts/gen-tokens.mjs",
   "source": "docs/tokens.json.txt",
-  "sourceHash": "c076e93ef803db66",
+  "sourceHash": "0b0326e1dfa5405d",
   "exceptions": [
     "h-button-xl",
     "h-input",
     "border-selected",
-    "h-tag"
+    "h-tag",
+    "max-w-mobile"
   ],
   "colors": [
     "fill-accent",
